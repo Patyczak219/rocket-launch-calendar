@@ -1,11 +1,2813 @@
 [
     {
+        "year": 1957,
+        "month": 9,
+        "day": 4,
+        "rocket": "Sputnik 8K71PS",
+        "mission": "Sputnik 1",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "First artificial satellite."
+    },
+    {
+        "year": 1957,
+        "month": 10,
+        "day": 3,
+        "rocket": "Sputnik 8K71PS",
+        "mission": "Sputnik 2",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Carried Laika, the first animal to orbit Earth."
+    },
+    {
+        "year": 1958,
+        "month": 0,
+        "day": 31,
+        "rocket": "Juno I",
+        "mission": "Explorer 1",
+        "company": "United States / ABMA",
+        "status": "completed",
+        "note": "First successful U.S. satellite."
+    },
+    {
+        "year": 1958,
+        "month": 2,
+        "day": 17,
+        "rocket": "Vanguard",
+        "mission": "Vanguard 1",
+        "company": "United States / NRL",
+        "status": "completed",
+        "note": "Oldest artificial satellite still in orbit."
+    },
+    {
+        "year": 1959,
+        "month": 0,
+        "day": 2,
+        "rocket": "Luna 8K72",
+        "mission": "Luna 1",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "First spacecraft to escape Earth gravity and enter heliocentric orbit."
+    },
+    {
+        "year": 1959,
+        "month": 2,
+        "day": 3,
+        "rocket": "Juno II",
+        "mission": "Pioneer 4",
+        "company": "NASA",
+        "status": "completed",
+        "note": "First U.S. spacecraft to escape Earth gravity."
+    },
+    {
+        "year": 1959,
+        "month": 8,
+        "day": 12,
+        "rocket": "Luna 8K72",
+        "mission": "Luna 2",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "First human-made object to reach the Moon."
+    },
+    {
+        "year": 1959,
+        "month": 9,
+        "day": 4,
+        "rocket": "Luna 8K72",
+        "mission": "Luna 3",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "First photographs of the Moon's far side."
+    },
+    {
+        "year": 1960,
+        "month": 3,
+        "day": 1,
+        "rocket": "Thor-Able",
+        "mission": "TIROS-1",
+        "company": "NASA / NOAA",
+        "status": "completed",
+        "note": "First successful weather satellite."
+    },
+    {
+        "year": 1960,
+        "month": 7,
+        "day": 12,
+        "rocket": "Thor-Delta",
+        "mission": "Echo 1A",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Early passive communications satellite."
+    },
+    {
+        "year": 1960,
+        "month": 7,
+        "day": 19,
+        "rocket": "Vostok-L",
+        "mission": "Korabl-Sputnik 2",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Belka and Strelka returned safely from orbit."
+    },
+    {
+        "year": 1961,
+        "month": 1,
+        "day": 12,
+        "rocket": "Molniya",
+        "mission": "Venera 1",
+        "company": "Soviet Space Program",
+        "status": "partial",
+        "note": "First spacecraft to fly past Venus, though contact was lost before encounter."
+    },
+    {
+        "year": 1961,
+        "month": 3,
+        "day": 12,
+        "rocket": "Vostok-K",
+        "mission": "Vostok 1",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Yuri Gagarin became the first human in space."
+    },
+    {
+        "year": 1961,
+        "month": 4,
+        "day": 5,
+        "rocket": "Mercury-Redstone",
+        "mission": "Freedom 7",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Alan Shepard became the first American in space."
+    },
+    {
+        "year": 1961,
+        "month": 6,
+        "day": 21,
+        "rocket": "Mercury-Redstone",
+        "mission": "Liberty Bell 7",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Crewed suborbital Mercury flight with Gus Grissom."
+    },
+    {
+        "year": 1961,
+        "month": 7,
+        "day": 6,
+        "rocket": "Vostok-K",
+        "mission": "Vostok 2",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Gherman Titov completed a day-long orbital mission."
+    },
+    {
+        "year": 1962,
+        "month": 1,
+        "day": 20,
+        "rocket": "Atlas LV-3B",
+        "mission": "Friendship 7",
+        "company": "NASA",
+        "status": "completed",
+        "note": "John Glenn became the first American to orbit Earth."
+    },
+    {
+        "year": 1962,
+        "month": 4,
+        "day": 24,
+        "rocket": "Atlas LV-3B",
+        "mission": "Aurora 7",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Mercury orbital mission flown by Scott Carpenter."
+    },
+    {
+        "year": 1962,
+        "month": 6,
+        "day": 10,
+        "rocket": "Thor-Delta",
+        "mission": "Telstar 1",
+        "company": "AT&T / NASA",
+        "status": "completed",
+        "note": "Pioneering active communications satellite."
+    },
+    {
+        "year": 1962,
+        "month": 7,
+        "day": 11,
+        "rocket": "Vostok-K",
+        "mission": "Vostok 3",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Joint mission flown near Vostok 4."
+    },
+    {
+        "year": 1962,
+        "month": 7,
+        "day": 12,
+        "rocket": "Vostok-K",
+        "mission": "Vostok 4",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Joint mission flown near Vostok 3."
+    },
+    {
+        "year": 1962,
+        "month": 7,
+        "day": 27,
+        "rocket": "Atlas-Agena B",
+        "mission": "Mariner 2",
+        "company": "NASA / JPL",
+        "status": "completed",
+        "note": "First successful planetary flyby, at Venus."
+    },
+    {
+        "year": 1962,
+        "month": 9,
+        "day": 3,
+        "rocket": "Atlas LV-3B",
+        "mission": "Sigma 7",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Mercury orbital mission flown by Wally Schirra."
+    },
+    {
+        "year": 1963,
+        "month": 4,
+        "day": 15,
+        "rocket": "Atlas LV-3B",
+        "mission": "Faith 7",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Final crewed Mercury mission, flown by Gordon Cooper."
+    },
+    {
+        "year": 1963,
+        "month": 5,
+        "day": 14,
+        "rocket": "Vostok-K",
+        "mission": "Vostok 5",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Valery Bykovsky set a solo spaceflight endurance record."
+    },
+    {
+        "year": 1963,
+        "month": 5,
+        "day": 16,
+        "rocket": "Vostok-K",
+        "mission": "Vostok 6",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Valentina Tereshkova became the first woman in space."
+    },
+    {
+        "year": 1963,
+        "month": 6,
+        "day": 26,
+        "rocket": "Delta B",
+        "mission": "Syncom 2",
+        "company": "NASA / Hughes",
+        "status": "completed",
+        "note": "First satellite placed in geosynchronous orbit."
+    },
+    {
+        "year": 1964,
+        "month": 3,
+        "day": 8,
+        "rocket": "Titan II GLV",
+        "mission": "Gemini 1",
+        "company": "NASA",
+        "status": "completed",
+        "note": "First uncrewed Gemini test flight."
+    },
+    {
+        "year": 1964,
+        "month": 9,
+        "day": 12,
+        "rocket": "Voskhod",
+        "mission": "Voskhod 1",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "First multi-person crewed spacecraft."
+    },
+    {
+        "year": 1964,
+        "month": 10,
+        "day": 28,
+        "rocket": "Atlas-Agena D",
+        "mission": "Mariner 4",
+        "company": "NASA / JPL",
+        "status": "completed",
+        "note": "First successful Mars flyby and close-up images."
+    },
+    {
+        "year": 1965,
+        "month": 0,
+        "day": 19,
+        "rocket": "Titan II GLV",
+        "mission": "Gemini 2",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Uncrewed suborbital Gemini test."
+    },
+    {
+        "year": 1965,
+        "month": 1,
+        "day": 17,
+        "rocket": "Atlas-Agena B",
+        "mission": "Ranger 8",
+        "company": "NASA / JPL",
+        "status": "completed",
+        "note": "Returned thousands of close-up lunar images before impact."
+    },
+    {
+        "year": 1965,
+        "month": 2,
+        "day": 18,
+        "rocket": "Voskhod",
+        "mission": "Voskhod 2",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Alexei Leonov performed the first spacewalk."
+    },
+    {
+        "year": 1965,
+        "month": 2,
+        "day": 23,
+        "rocket": "Titan II GLV",
+        "mission": "Gemini 3",
+        "company": "NASA",
+        "status": "completed",
+        "note": "First crewed Gemini mission."
+    },
+    {
+        "year": 1965,
+        "month": 5,
+        "day": 3,
+        "rocket": "Titan II GLV",
+        "mission": "Gemini 4",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Ed White performed the first American spacewalk."
+    },
+    {
+        "year": 1965,
+        "month": 7,
+        "day": 21,
+        "rocket": "Titan II GLV",
+        "mission": "Gemini 5",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Eight-day endurance mission."
+    },
+    {
+        "year": 1965,
+        "month": 11,
+        "day": 4,
+        "rocket": "Titan II GLV",
+        "mission": "Gemini 7",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Fourteen-day endurance mission."
+    },
+    {
+        "year": 1965,
+        "month": 11,
+        "day": 15,
+        "rocket": "Titan II GLV",
+        "mission": "Gemini 6A",
+        "company": "NASA",
+        "status": "completed",
+        "note": "First crewed rendezvous with another spacecraft."
+    },
+    {
+        "year": 1966,
+        "month": 0,
+        "day": 31,
+        "rocket": "Molniya-M",
+        "mission": "Luna 9",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "First successful soft landing on the Moon."
+    },
+    {
+        "year": 1966,
+        "month": 2,
+        "day": 16,
+        "rocket": "Titan II GLV",
+        "mission": "Gemini 8",
+        "company": "NASA",
+        "status": "completed",
+        "note": "First docking of two spacecraft in orbit."
+    },
+    {
+        "year": 1966,
+        "month": 2,
+        "day": 31,
+        "rocket": "Molniya-M",
+        "mission": "Luna 10",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "First artificial satellite of the Moon."
+    },
+    {
+        "year": 1966,
+        "month": 4,
+        "day": 30,
+        "rocket": "Atlas-Centaur",
+        "mission": "Surveyor 1",
+        "company": "NASA / JPL",
+        "status": "completed",
+        "note": "First successful U.S. soft landing on the Moon."
+    },
+    {
+        "year": 1966,
+        "month": 5,
+        "day": 3,
+        "rocket": "Titan II GLV",
+        "mission": "Gemini 9A",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Crewed rendezvous and EVA mission."
+    },
+    {
+        "year": 1966,
+        "month": 6,
+        "day": 18,
+        "rocket": "Titan II GLV",
+        "mission": "Gemini 10",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Docking and high-altitude rendezvous mission."
+    },
+    {
+        "year": 1966,
+        "month": 7,
+        "day": 10,
+        "rocket": "Atlas-Agena D",
+        "mission": "Lunar Orbiter 1",
+        "company": "NASA",
+        "status": "completed",
+        "note": "First U.S. spacecraft to orbit the Moon."
+    },
+    {
+        "year": 1966,
+        "month": 8,
+        "day": 12,
+        "rocket": "Titan II GLV",
+        "mission": "Gemini 11",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Set a crewed Earth-orbit altitude record."
+    },
+    {
+        "year": 1966,
+        "month": 10,
+        "day": 11,
+        "rocket": "Titan II GLV",
+        "mission": "Gemini 12",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Final Gemini mission."
+    },
+    {
+        "year": 1967,
+        "month": 0,
+        "day": 27,
+        "rocket": "Saturn IB (planned)",
+        "mission": "Apollo 1 — pad fire",
+        "company": "NASA",
+        "status": "cancelled",
+        "note": "No launch occurred; the crew died during a prelaunch test."
+    },
+    {
+        "year": 1967,
+        "month": 3,
+        "day": 17,
+        "rocket": "Atlas-Centaur",
+        "mission": "Surveyor 3",
+        "company": "NASA / JPL",
+        "status": "completed",
+        "note": "Second successful U.S. lunar soft landing."
+    },
+    {
+        "year": 1967,
+        "month": 3,
+        "day": 23,
+        "rocket": "Soyuz",
+        "mission": "Soyuz 1",
+        "company": "Soviet Space Program",
+        "status": "failed",
+        "note": "Vladimir Komarov died during the failed return."
+    },
+    {
+        "year": 1967,
+        "month": 5,
+        "day": 12,
+        "rocket": "Molniya-M",
+        "mission": "Venera 4",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "First successful in-situ atmospheric measurements at another planet."
+    },
+    {
+        "year": 1967,
+        "month": 5,
+        "day": 14,
+        "rocket": "Atlas-Agena D",
+        "mission": "Mariner 5",
+        "company": "NASA / JPL",
+        "status": "completed",
+        "note": "Successful Venus flyby."
+    },
+    {
+        "year": 1967,
+        "month": 8,
+        "day": 8,
+        "rocket": "Atlas-Centaur",
+        "mission": "Surveyor 5",
+        "company": "NASA / JPL",
+        "status": "completed",
+        "note": "Lunar surface composition measurements."
+    },
+    {
+        "year": 1967,
+        "month": 10,
+        "day": 7,
+        "rocket": "Atlas-Centaur",
+        "mission": "Surveyor 6",
+        "company": "NASA / JPL",
+        "status": "completed",
+        "note": "First spacecraft to launch from the lunar surface and land again."
+    },
+    {
+        "year": 1967,
+        "month": 10,
+        "day": 9,
+        "rocket": "Saturn V",
+        "mission": "Apollo 4",
+        "company": "NASA",
+        "status": "completed",
+        "note": "First uncrewed test of Saturn V."
+    },
+    {
+        "year": 1968,
+        "month": 0,
+        "day": 22,
+        "rocket": "Saturn IB",
+        "mission": "Apollo 5",
+        "company": "NASA",
+        "status": "completed",
+        "note": "First uncrewed Lunar Module flight."
+    },
+    {
+        "year": 1968,
+        "month": 3,
+        "day": 4,
+        "rocket": "Saturn V",
+        "mission": "Apollo 6",
+        "company": "NASA",
+        "status": "partial",
+        "note": "Final uncrewed Saturn V qualification flight."
+    },
+    {
+        "year": 1968,
+        "month": 8,
+        "day": 14,
+        "rocket": "Proton-K",
+        "mission": "Zond 5",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "First living organisms to orbit the Moon and return safely."
+    },
+    {
+        "year": 1968,
+        "month": 9,
+        "day": 11,
+        "rocket": "Saturn IB",
+        "mission": "Apollo 7",
+        "company": "NASA",
+        "status": "completed",
+        "note": "First crewed Apollo mission."
+    },
+    {
+        "year": 1968,
+        "month": 11,
+        "day": 21,
+        "rocket": "Saturn V",
+        "mission": "Apollo 8",
+        "company": "NASA",
+        "status": "completed",
+        "note": "First humans to orbit the Moon."
+    },
+    {
+        "year": 1969,
+        "month": 2,
+        "day": 3,
+        "rocket": "Saturn V",
+        "mission": "Apollo 9",
+        "company": "NASA",
+        "status": "completed",
+        "note": "First crewed flight of the complete Apollo spacecraft."
+    },
+    {
+        "year": 1969,
+        "month": 4,
+        "day": 18,
+        "rocket": "Saturn V",
+        "mission": "Apollo 10",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Full dress rehearsal for a lunar landing."
+    },
+    {
+        "year": 1969,
+        "month": 6,
+        "day": 13,
+        "rocket": "Proton-K",
+        "mission": "Luna 15",
+        "company": "Soviet Space Program",
+        "status": "failed",
+        "note": "Sample-return attempt that crashed on the Moon."
+    },
+    {
+        "year": 1969,
+        "month": 6,
+        "day": 16,
+        "rocket": "Saturn V",
+        "mission": "Apollo 11",
+        "company": "NASA",
+        "status": "completed",
+        "note": "First crewed Moon landing."
+    },
+    {
+        "year": 1969,
+        "month": 10,
+        "day": 14,
+        "rocket": "Saturn V",
+        "mission": "Apollo 12",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Second crewed Moon landing."
+    },
+    {
+        "year": 1970,
+        "month": 1,
+        "day": 11,
+        "rocket": "Lambda 4S",
+        "mission": "Ohsumi",
+        "company": "ISAS / Japan",
+        "status": "completed",
+        "note": "Japan's first satellite."
+    },
+    {
+        "year": 1970,
+        "month": 3,
+        "day": 11,
+        "rocket": "Saturn V",
+        "mission": "Apollo 13",
+        "company": "NASA",
+        "status": "partial",
+        "note": "Lunar landing aborted; crew returned safely."
+    },
+    {
+        "year": 1970,
+        "month": 3,
+        "day": 24,
+        "rocket": "Long March 1",
+        "mission": "Dong Fang Hong 1",
+        "company": "China",
+        "status": "completed",
+        "note": "China's first satellite."
+    },
+    {
+        "year": 1970,
+        "month": 7,
+        "day": 17,
+        "rocket": "Molniya-M",
+        "mission": "Venera 7",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "First successful transmission from the surface of another planet."
+    },
+    {
+        "year": 1970,
+        "month": 8,
+        "day": 12,
+        "rocket": "Proton-K",
+        "mission": "Luna 16",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "First robotic lunar sample-return mission."
+    },
+    {
+        "year": 1970,
+        "month": 10,
+        "day": 10,
+        "rocket": "Proton-K",
+        "mission": "Luna 17 / Lunokhod 1",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Delivered the first successful robotic lunar rover."
+    },
+    {
+        "year": 1971,
+        "month": 0,
+        "day": 31,
+        "rocket": "Saturn V",
+        "mission": "Apollo 14",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Third crewed Moon landing."
+    },
+    {
+        "year": 1971,
+        "month": 3,
+        "day": 19,
+        "rocket": "Proton-K",
+        "mission": "Salyut 1",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "First space station."
+    },
+    {
+        "year": 1971,
+        "month": 4,
+        "day": 19,
+        "rocket": "Proton-K",
+        "mission": "Mars 2",
+        "company": "Soviet Space Program",
+        "status": "partial",
+        "note": "Orbiter succeeded; lander crashed on Mars."
+    },
+    {
+        "year": 1971,
+        "month": 4,
+        "day": 28,
+        "rocket": "Proton-K",
+        "mission": "Mars 3",
+        "company": "Soviet Space Program",
+        "status": "partial",
+        "note": "First soft landing on Mars, but transmission ended quickly."
+    },
+    {
+        "year": 1971,
+        "month": 4,
+        "day": 30,
+        "rocket": "Atlas-Centaur",
+        "mission": "Mariner 9",
+        "company": "NASA / JPL",
+        "status": "completed",
+        "note": "First spacecraft to orbit another planet."
+    },
+    {
+        "year": 1971,
+        "month": 6,
+        "day": 26,
+        "rocket": "Saturn V",
+        "mission": "Apollo 15",
+        "company": "NASA",
+        "status": "completed",
+        "note": "First Apollo mission to use the Lunar Roving Vehicle."
+    },
+    {
+        "year": 1971,
+        "month": 9,
+        "day": 28,
+        "rocket": "Black Arrow",
+        "mission": "Prospero",
+        "company": "United Kingdom",
+        "status": "completed",
+        "note": "First and only British satellite launched by a British rocket."
+    },
+    {
+        "year": 1972,
+        "month": 2,
+        "day": 2,
+        "rocket": "Atlas-Centaur",
+        "mission": "Pioneer 10",
+        "company": "NASA",
+        "status": "completed",
+        "note": "First spacecraft to traverse the asteroid belt and visit Jupiter."
+    },
+    {
+        "year": 1972,
+        "month": 3,
+        "day": 16,
+        "rocket": "Saturn V",
+        "mission": "Apollo 16",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Fifth crewed Moon landing."
+    },
+    {
+        "year": 1972,
+        "month": 6,
+        "day": 23,
+        "rocket": "Delta 900",
+        "mission": "Landsat 1",
+        "company": "NASA / USGS",
+        "status": "completed",
+        "note": "First satellite of the Landsat Earth-observation program."
+    },
+    {
+        "year": 1972,
+        "month": 11,
+        "day": 7,
+        "rocket": "Saturn V",
+        "mission": "Apollo 17",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Final Apollo lunar landing mission."
+    },
+    {
+        "year": 1973,
+        "month": 3,
+        "day": 6,
+        "rocket": "Atlas-Centaur",
+        "mission": "Pioneer 11",
+        "company": "NASA",
+        "status": "completed",
+        "note": "First spacecraft to visit Saturn."
+    },
+    {
+        "year": 1973,
+        "month": 4,
+        "day": 14,
+        "rocket": "Saturn V",
+        "mission": "Skylab 1",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Launch of the United States' first space station."
+    },
+    {
+        "year": 1973,
+        "month": 4,
+        "day": 25,
+        "rocket": "Saturn IB",
+        "mission": "Skylab 2",
+        "company": "NASA",
+        "status": "completed",
+        "note": "First crewed Skylab mission."
+    },
+    {
+        "year": 1973,
+        "month": 6,
+        "day": 28,
+        "rocket": "Saturn IB",
+        "mission": "Skylab 3",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Second crewed Skylab mission."
+    },
+    {
+        "year": 1973,
+        "month": 10,
+        "day": 3,
+        "rocket": "Atlas-Centaur",
+        "mission": "Mariner 10",
+        "company": "NASA / JPL",
+        "status": "completed",
+        "note": "First mission to use a gravity assist and first to visit Mercury."
+    },
+    {
+        "year": 1973,
+        "month": 10,
+        "day": 16,
+        "rocket": "Saturn IB",
+        "mission": "Skylab 4",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Final crewed Skylab mission."
+    },
+    {
+        "year": 1974,
+        "month": 11,
+        "day": 10,
+        "rocket": "Titan IIIE-Centaur",
+        "mission": "Helios 1",
+        "company": "NASA / West Germany",
+        "status": "completed",
+        "note": "Solar probe that approached closer to the Sun than any earlier spacecraft."
+    },
+    {
+        "year": 1975,
+        "month": 5,
+        "day": 8,
+        "rocket": "Proton-K",
+        "mission": "Venera 9",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Returned the first images from the surface of Venus."
+    },
+    {
+        "year": 1975,
+        "month": 5,
+        "day": 14,
+        "rocket": "Proton-K",
+        "mission": "Venera 10",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Successful Venus orbiter and lander."
+    },
+    {
+        "year": 1975,
+        "month": 6,
+        "day": 15,
+        "rocket": "Saturn IB",
+        "mission": "Apollo–Soyuz Test Project — Apollo",
+        "company": "NASA",
+        "status": "completed",
+        "note": "First international crewed spaceflight partnership."
+    },
+    {
+        "year": 1975,
+        "month": 6,
+        "day": 15,
+        "rocket": "Soyuz-U",
+        "mission": "Apollo–Soyuz Test Project — Soyuz 19",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Docked with the U.S. Apollo spacecraft."
+    },
+    {
+        "year": 1975,
+        "month": 7,
+        "day": 20,
+        "rocket": "Titan IIIE-Centaur",
+        "mission": "Viking 1",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Orbiter and lander mission to Mars."
+    },
+    {
+        "year": 1975,
+        "month": 8,
+        "day": 9,
+        "rocket": "Titan IIIE-Centaur",
+        "mission": "Viking 2",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Second Viking orbiter and lander mission to Mars."
+    },
+    {
+        "year": 1976,
+        "month": 5,
+        "day": 22,
+        "rocket": "Proton-K",
+        "mission": "Salyut 5",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Military Almaz space station."
+    },
+    {
+        "year": 1976,
+        "month": 7,
+        "day": 9,
+        "rocket": "Proton-K",
+        "mission": "Luna 24",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Final Soviet lunar sample-return mission."
+    },
+    {
+        "year": 1977,
+        "month": 7,
+        "day": 20,
+        "rocket": "Titan IIIE-Centaur",
+        "mission": "Voyager 2",
+        "company": "NASA / JPL",
+        "status": "completed",
+        "note": "Grand Tour mission to the outer planets."
+    },
+    {
+        "year": 1977,
+        "month": 8,
+        "day": 5,
+        "rocket": "Titan IIIE-Centaur",
+        "mission": "Voyager 1",
+        "company": "NASA / JPL",
+        "status": "completed",
+        "note": "Outer-planet mission now operating in interstellar space."
+    },
+    {
+        "year": 1977,
+        "month": 8,
+        "day": 29,
+        "rocket": "Proton-K",
+        "mission": "Salyut 6",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Long-duration space station with two docking ports."
+    },
+    {
+        "year": 1978,
+        "month": 0,
+        "day": 26,
+        "rocket": "Delta 2914",
+        "mission": "International Ultraviolet Explorer",
+        "company": "NASA / ESA / United Kingdom",
+        "status": "completed",
+        "note": "Long-running ultraviolet space observatory."
+    },
+    {
+        "year": 1978,
+        "month": 4,
+        "day": 20,
+        "rocket": "Atlas-Centaur",
+        "mission": "Pioneer Venus Orbiter",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Mapped Venus from orbit."
+    },
+    {
+        "year": 1978,
+        "month": 7,
+        "day": 8,
+        "rocket": "Atlas-Centaur",
+        "mission": "Pioneer Venus Multiprobe",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Sent multiple probes into the atmosphere of Venus."
+    },
+    {
+        "year": 1978,
+        "month": 7,
+        "day": 12,
+        "rocket": "Delta 2914",
+        "mission": "ISEE-3",
+        "company": "NASA / ESA",
+        "status": "completed",
+        "note": "First spacecraft placed at an Earth–Sun Lagrange point."
+    },
+    {
+        "year": 1979,
+        "month": 11,
+        "day": 24,
+        "rocket": "Ariane 1",
+        "mission": "Ariane 1 First Flight",
+        "company": "ESA / Arianespace",
+        "status": "completed",
+        "note": "First launch of Europe's Ariane rocket family."
+    },
+    {
+        "year": 1980,
+        "month": 1,
+        "day": 14,
+        "rocket": "Delta 3910",
+        "mission": "Solar Maximum Mission",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Solar observatory later repaired by astronauts in orbit."
+    },
+    {
+        "year": 1981,
+        "month": 3,
+        "day": 12,
+        "rocket": "Space Shuttle Columbia",
+        "mission": "STS-1",
+        "company": "NASA",
+        "status": "completed",
+        "note": "First orbital flight of the Space Shuttle."
+    },
+    {
+        "year": 1981,
+        "month": 9,
+        "day": 30,
+        "rocket": "Proton-K",
+        "mission": "Venera 13",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Long-lived Venus lander with color surface images."
+    },
+    {
+        "year": 1981,
+        "month": 10,
+        "day": 4,
+        "rocket": "Proton-K",
+        "mission": "Venera 14",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Successful Venus orbiter and lander."
+    },
+    {
+        "year": 1982,
+        "month": 3,
+        "day": 19,
+        "rocket": "Proton-K",
+        "mission": "Salyut 7",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Final Salyut space station."
+    },
+    {
+        "year": 1982,
+        "month": 10,
+        "day": 11,
+        "rocket": "Space Shuttle Columbia",
+        "mission": "STS-5",
+        "company": "NASA",
+        "status": "completed",
+        "note": "First operational Space Shuttle mission."
+    },
+    {
+        "year": 1983,
+        "month": 0,
+        "day": 25,
+        "rocket": "Delta 3910",
+        "mission": "IRAS",
+        "company": "NASA / Netherlands / United Kingdom",
+        "status": "completed",
+        "note": "First infrared space telescope to survey most of the sky."
+    },
+    {
+        "year": 1983,
+        "month": 5,
+        "day": 2,
+        "rocket": "Proton-K",
+        "mission": "Venera 15",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Radar mapping mission at Venus."
+    },
+    {
+        "year": 1983,
+        "month": 5,
+        "day": 7,
+        "rocket": "Proton-K",
+        "mission": "Venera 16",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Radar mapping mission at Venus."
+    },
+    {
+        "year": 1983,
+        "month": 5,
+        "day": 18,
+        "rocket": "Space Shuttle Challenger",
+        "mission": "STS-7",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Sally Ride became the first American woman in space."
+    },
+    {
+        "year": 1983,
+        "month": 10,
+        "day": 28,
+        "rocket": "Space Shuttle Columbia",
+        "mission": "STS-9 / Spacelab 1",
+        "company": "NASA / ESA",
+        "status": "completed",
+        "note": "First Spacelab mission."
+    },
+    {
+        "year": 1984,
+        "month": 1,
+        "day": 3,
+        "rocket": "Space Shuttle Challenger",
+        "mission": "STS-41-B",
+        "company": "NASA",
+        "status": "completed",
+        "note": "First untethered spacewalk using the Manned Maneuvering Unit."
+    },
+    {
+        "year": 1984,
+        "month": 9,
+        "day": 5,
+        "rocket": "Space Shuttle Challenger",
+        "mission": "STS-41-G",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Kathryn Sullivan became the first American woman to perform a spacewalk."
+    },
+    {
+        "year": 1984,
+        "month": 11,
+        "day": 15,
+        "rocket": "Proton-K",
+        "mission": "Vega 1",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Studied Venus and Halley's Comet."
+    },
+    {
+        "year": 1984,
+        "month": 11,
+        "day": 21,
+        "rocket": "Proton-K",
+        "mission": "Vega 2",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Studied Venus and Halley's Comet."
+    },
+    {
+        "year": 1985,
+        "month": 0,
+        "day": 7,
+        "rocket": "Mu-3S-II",
+        "mission": "Sakigake",
+        "company": "ISAS / Japan",
+        "status": "completed",
+        "note": "Japan's first interplanetary spacecraft."
+    },
+    {
+        "year": 1985,
+        "month": 6,
+        "day": 2,
+        "rocket": "Ariane 1",
+        "mission": "Giotto",
+        "company": "ESA",
+        "status": "completed",
+        "note": "Flew close to Halley's Comet."
+    },
+    {
+        "year": 1985,
+        "month": 7,
+        "day": 18,
+        "rocket": "Mu-3S-II",
+        "mission": "Suisei",
+        "company": "ISAS / Japan",
+        "status": "completed",
+        "note": "Japanese mission to Halley's Comet."
+    },
+    {
+        "year": 1985,
+        "month": 9,
+        "day": 3,
+        "rocket": "Space Shuttle Atlantis",
+        "mission": "STS-51-J",
+        "company": "NASA",
+        "status": "completed",
+        "note": "First flight of Space Shuttle Atlantis."
+    },
+    {
+        "year": 1986,
+        "month": 0,
+        "day": 28,
+        "rocket": "Space Shuttle Challenger",
+        "mission": "STS-51-L",
+        "company": "NASA",
+        "status": "failed",
+        "note": "Challenger and its seven-person crew were lost shortly after launch."
+    },
+    {
+        "year": 1986,
+        "month": 1,
+        "day": 20,
+        "rocket": "Proton-K",
+        "mission": "Mir Core Module",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Launch of the core module of the Mir space station."
+    },
+    {
+        "year": 1987,
+        "month": 4,
+        "day": 15,
+        "rocket": "Energia",
+        "mission": "Energia–Polyus",
+        "company": "Soviet Space Program",
+        "status": "failed",
+        "note": "First flight of the Energia heavy-lift rocket; payload failed to reach orbit."
+    },
+    {
+        "year": 1988,
+        "month": 6,
+        "day": 7,
+        "rocket": "Proton-K",
+        "mission": "Phobos 1",
+        "company": "Soviet Space Program",
+        "status": "failed",
+        "note": "Mars and Phobos mission lost en route."
+    },
+    {
+        "year": 1988,
+        "month": 6,
+        "day": 12,
+        "rocket": "Proton-K",
+        "mission": "Phobos 2",
+        "company": "Soviet Space Program",
+        "status": "partial",
+        "note": "Reached Mars orbit but contact was lost before the Phobos encounter."
+    },
+    {
+        "year": 1988,
+        "month": 10,
+        "day": 15,
+        "rocket": "Energia",
+        "mission": "Buran",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Only orbital flight of the uncrewed Buran spaceplane."
+    },
+    {
+        "year": 1989,
+        "month": 4,
+        "day": 4,
+        "rocket": "Space Shuttle Atlantis",
+        "mission": "Magellan",
+        "company": "NASA / JPL",
+        "status": "completed",
+        "note": "Radar mapping mission to Venus."
+    },
+    {
+        "year": 1989,
+        "month": 9,
+        "day": 18,
+        "rocket": "Space Shuttle Atlantis",
+        "mission": "Galileo",
+        "company": "NASA / JPL",
+        "status": "completed",
+        "note": "First spacecraft to orbit Jupiter."
+    },
+    {
+        "year": 1989,
+        "month": 10,
+        "day": 18,
+        "rocket": "Delta 5920",
+        "mission": "COBE",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Measured the cosmic microwave background."
+    },
+    {
+        "year": 1990,
+        "month": 3,
+        "day": 24,
+        "rocket": "Space Shuttle Discovery",
+        "mission": "Hubble Space Telescope",
+        "company": "NASA / ESA",
+        "status": "completed",
+        "note": "Launch of the Hubble Space Telescope."
+    },
+    {
+        "year": 1990,
+        "month": 9,
+        "day": 6,
+        "rocket": "Space Shuttle Discovery",
+        "mission": "Ulysses",
+        "company": "NASA / ESA",
+        "status": "completed",
+        "note": "First mission to study the Sun's polar regions."
+    },
+    {
+        "year": 1991,
+        "month": 3,
+        "day": 5,
+        "rocket": "Space Shuttle Atlantis",
+        "mission": "Compton Gamma Ray Observatory",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Second of NASA's Great Observatories."
+    },
+    {
+        "year": 1991,
+        "month": 6,
+        "day": 17,
+        "rocket": "Ariane 4",
+        "mission": "ERS-1",
+        "company": "ESA",
+        "status": "completed",
+        "note": "ESA Earth-observation satellite."
+    },
+    {
+        "year": 1991,
+        "month": 7,
+        "day": 30,
+        "rocket": "Mu-3S-II",
+        "mission": "Yohkoh",
+        "company": "ISAS / Japan / NASA",
+        "status": "completed",
+        "note": "Solar X-ray observatory."
+    },
+    {
+        "year": 1992,
+        "month": 4,
+        "day": 7,
+        "rocket": "Space Shuttle Endeavour",
+        "mission": "STS-49",
+        "company": "NASA",
+        "status": "completed",
+        "note": "First flight of Space Shuttle Endeavour."
+    },
+    {
+        "year": 1992,
+        "month": 7,
+        "day": 10,
+        "rocket": "Ariane 4",
+        "mission": "TOPEX/Poseidon",
+        "company": "NASA / CNES",
+        "status": "completed",
+        "note": "Precision ocean-altimetry mission."
+    },
+    {
+        "year": 1992,
+        "month": 8,
+        "day": 25,
+        "rocket": "Titan III",
+        "mission": "Mars Observer",
+        "company": "NASA / JPL",
+        "status": "failed",
+        "note": "Contact was lost shortly before Mars orbit insertion."
+    },
+    {
+        "year": 1993,
+        "month": 11,
+        "day": 2,
+        "rocket": "Space Shuttle Endeavour",
+        "mission": "STS-61 Hubble Servicing Mission 1",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Corrected Hubble's optical flaw."
+    },
+    {
+        "year": 1994,
+        "month": 0,
+        "day": 25,
+        "rocket": "Titan II",
+        "mission": "Clementine",
+        "company": "U.S. Department of Defense / NASA",
+        "status": "partial",
+        "note": "Mapped the Moon and tested spacecraft technologies."
+    },
+    {
+        "year": 1995,
+        "month": 11,
+        "day": 2,
+        "rocket": "Atlas IIAS",
+        "mission": "SOHO",
+        "company": "ESA / NASA",
+        "status": "completed",
+        "note": "Long-running solar observatory at the Sun–Earth L1 point."
+    },
+    {
+        "year": 1996,
+        "month": 1,
+        "day": 17,
+        "rocket": "Delta II",
+        "mission": "NEAR Shoemaker",
+        "company": "NASA",
+        "status": "completed",
+        "note": "First spacecraft to orbit and land on an asteroid."
+    },
+    {
+        "year": 1996,
+        "month": 10,
+        "day": 7,
+        "rocket": "Delta II",
+        "mission": "Mars Global Surveyor",
+        "company": "NASA / JPL",
+        "status": "completed",
+        "note": "Long-duration mapping mission at Mars."
+    },
+    {
+        "year": 1996,
+        "month": 11,
+        "day": 4,
+        "rocket": "Delta II",
+        "mission": "Mars Pathfinder",
+        "company": "NASA / JPL",
+        "status": "completed",
+        "note": "Delivered the Sojourner rover to Mars."
+    },
+    {
+        "year": 1997,
+        "month": 9,
+        "day": 15,
+        "rocket": "Titan IVB-Centaur",
+        "mission": "Cassini–Huygens",
+        "company": "NASA / ESA / ASI",
+        "status": "completed",
+        "note": "Explored Saturn and landed Huygens on Titan."
+    },
+    {
+        "year": 1998,
+        "month": 0,
+        "day": 7,
+        "rocket": "Athena II",
+        "mission": "Lunar Prospector",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Mapped lunar composition and gravity."
+    },
+    {
+        "year": 1998,
+        "month": 9,
+        "day": 24,
+        "rocket": "Delta II",
+        "mission": "Deep Space 1",
+        "company": "NASA / JPL",
+        "status": "completed",
+        "note": "Demonstrated ion propulsion and other advanced technologies."
+    },
+    {
+        "year": 1998,
+        "month": 10,
+        "day": 20,
+        "rocket": "Proton-K",
+        "mission": "Zarya",
+        "company": "Roscosmos / NASA",
+        "status": "completed",
+        "note": "First module of the International Space Station."
+    },
+    {
+        "year": 1998,
+        "month": 11,
+        "day": 4,
+        "rocket": "Space Shuttle Endeavour",
+        "mission": "STS-88 / Unity",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Connected the first U.S. ISS module to Zarya."
+    },
+    {
+        "year": 1999,
+        "month": 0,
+        "day": 3,
+        "rocket": "Delta II",
+        "mission": "Mars Polar Lander",
+        "company": "NASA / JPL",
+        "status": "failed",
+        "note": "Contact was lost during Mars landing."
+    },
+    {
+        "year": 1999,
+        "month": 1,
+        "day": 7,
+        "rocket": "Delta II",
+        "mission": "Stardust",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Returned samples from comet Wild 2."
+    },
+    {
+        "year": 1999,
+        "month": 6,
+        "day": 23,
+        "rocket": "Space Shuttle Columbia",
+        "mission": "Chandra X-ray Observatory",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Third of NASA's Great Observatories."
+    },
+    {
+        "year": 2000,
+        "month": 6,
+        "day": 16,
+        "rocket": "Soyuz-U / Fregat",
+        "mission": "Cluster II — Salsa and Samba",
+        "company": "ESA / Roscosmos",
+        "status": "completed",
+        "note": "First pair of Cluster II magnetosphere satellites."
+    },
+    {
+        "year": 2000,
+        "month": 7,
+        "day": 9,
+        "rocket": "Soyuz-U / Fregat",
+        "mission": "Cluster II — Rumba and Tango",
+        "company": "ESA / Roscosmos",
+        "status": "completed",
+        "note": "Second pair of Cluster II satellites."
+    },
+    {
+        "year": 2000,
+        "month": 9,
+        "day": 31,
+        "rocket": "Soyuz-U",
+        "mission": "Soyuz TM-31 / ISS Expedition 1",
+        "company": "Roscosmos / NASA",
+        "status": "completed",
+        "note": "First long-duration resident crew of the ISS."
+    },
+    {
+        "year": 2001,
+        "month": 3,
+        "day": 7,
+        "rocket": "Delta II",
+        "mission": "2001 Mars Odyssey",
+        "company": "NASA / JPL",
+        "status": "completed",
+        "note": "Long-running Mars orbiter."
+    },
+    {
+        "year": 2001,
+        "month": 5,
+        "day": 30,
+        "rocket": "Delta II",
+        "mission": "WMAP",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Mapped the cosmic microwave background."
+    },
+    {
+        "year": 2001,
+        "month": 7,
+        "day": 8,
+        "rocket": "Delta II",
+        "mission": "Genesis",
+        "company": "NASA / JPL",
+        "status": "partial",
+        "note": "Returned solar-wind samples despite a hard landing."
+    },
+    {
+        "year": 2002,
+        "month": 2,
+        "day": 17,
+        "rocket": "Rokot",
+        "mission": "GRACE",
+        "company": "NASA / DLR",
+        "status": "completed",
+        "note": "Measured changes in Earth's gravity field."
+    },
+    {
+        "year": 2002,
+        "month": 4,
+        "day": 4,
+        "rocket": "Delta II",
+        "mission": "Aqua",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Earth-observation mission studying the water cycle."
+    },
+    {
+        "year": 2002,
+        "month": 9,
+        "day": 17,
+        "rocket": "Proton-K",
+        "mission": "INTEGRAL",
+        "company": "ESA / Roscosmos",
+        "status": "completed",
+        "note": "Gamma-ray space observatory."
+    },
+    {
+        "year": 2003,
+        "month": 0,
+        "day": 16,
+        "rocket": "Space Shuttle Columbia",
+        "mission": "STS-107",
+        "company": "NASA",
+        "status": "failed",
+        "note": "Columbia and its seven-person crew were lost during reentry."
+    },
+    {
+        "year": 2003,
+        "month": 4,
+        "day": 9,
+        "rocket": "M-V",
+        "mission": "Hayabusa",
+        "company": "JAXA",
+        "status": "completed",
+        "note": "First mission to return samples from an asteroid."
+    },
+    {
+        "year": 2003,
+        "month": 5,
+        "day": 2,
+        "rocket": "Soyuz-FG / Fregat",
+        "mission": "Mars Express",
+        "company": "ESA / Roscosmos",
+        "status": "completed",
+        "note": "ESA's first planetary mission."
+    },
+    {
+        "year": 2003,
+        "month": 5,
+        "day": 10,
+        "rocket": "Delta II",
+        "mission": "Spirit",
+        "company": "NASA / JPL",
+        "status": "completed",
+        "note": "Mars Exploration Rover A."
+    },
+    {
+        "year": 2003,
+        "month": 6,
+        "day": 7,
+        "rocket": "Delta II",
+        "mission": "Opportunity",
+        "company": "NASA / JPL",
+        "status": "completed",
+        "note": "Mars Exploration Rover B."
+    },
+    {
+        "year": 2003,
+        "month": 9,
+        "day": 15,
+        "rocket": "Long March 2F",
+        "mission": "Shenzhou 5",
+        "company": "China",
+        "status": "completed",
+        "note": "China's first crewed spaceflight."
+    },
+    {
+        "year": 2004,
+        "month": 2,
+        "day": 2,
+        "rocket": "Ariane 5G+",
+        "mission": "Rosetta",
+        "company": "ESA / Arianespace",
+        "status": "completed",
+        "note": "Orbited comet 67P and delivered the Philae lander."
+    },
+    {
+        "year": 2004,
+        "month": 5,
+        "day": 21,
+        "rocket": "White Knight / SpaceShipOne",
+        "mission": "SpaceShipOne Flight 15P",
+        "company": "Scaled Composites",
+        "status": "completed",
+        "note": "First privately funded crewed spaceflight."
+    },
+    {
+        "year": 2004,
+        "month": 7,
+        "day": 3,
+        "rocket": "Delta II",
+        "mission": "MESSENGER",
+        "company": "NASA / APL",
+        "status": "completed",
+        "note": "First spacecraft to orbit Mercury."
+    },
+    {
+        "year": 2005,
+        "month": 0,
+        "day": 12,
+        "rocket": "Delta II",
+        "mission": "Deep Impact",
+        "company": "NASA / JPL",
+        "status": "completed",
+        "note": "Released an impactor into comet Tempel 1."
+    },
+    {
+        "year": 2005,
+        "month": 7,
+        "day": 12,
+        "rocket": "Atlas V",
+        "mission": "Mars Reconnaissance Orbiter",
+        "company": "NASA / ULA",
+        "status": "completed",
+        "note": "High-resolution mapping and communications mission at Mars."
+    },
+    {
+        "year": 2005,
+        "month": 10,
+        "day": 9,
+        "rocket": "Soyuz-FG / Fregat",
+        "mission": "Venus Express",
+        "company": "ESA / Roscosmos",
+        "status": "completed",
+        "note": "ESA orbiter studying Venus."
+    },
+    {
+        "year": 2006,
+        "month": 0,
+        "day": 19,
+        "rocket": "Atlas V",
+        "mission": "New Horizons",
+        "company": "NASA / ULA",
+        "status": "completed",
+        "note": "First close-up exploration of Pluto and Arrokoth."
+    },
+    {
+        "year": 2006,
+        "month": 2,
+        "day": 24,
+        "rocket": "Falcon 1",
+        "mission": "Falcon 1 Flight 1",
+        "company": "SpaceX",
+        "status": "failed",
+        "note": "First launch attempt of SpaceX's Falcon 1."
+    },
+    {
+        "year": 2006,
+        "month": 8,
+        "day": 22,
+        "rocket": "M-V",
+        "mission": "Hinode",
+        "company": "JAXA / NASA / United Kingdom",
+        "status": "completed",
+        "note": "Solar observatory."
+    },
+    {
+        "year": 2006,
+        "month": 9,
+        "day": 25,
+        "rocket": "Delta II",
+        "mission": "STEREO",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Twin spacecraft observing the Sun in three dimensions."
+    },
+    {
+        "year": 2007,
+        "month": 7,
+        "day": 4,
+        "rocket": "Delta II",
+        "mission": "Phoenix",
+        "company": "NASA / JPL",
+        "status": "completed",
+        "note": "Mars polar lander."
+    },
+    {
+        "year": 2007,
+        "month": 8,
+        "day": 14,
+        "rocket": "H-IIA",
+        "mission": "Kaguya / SELENE",
+        "company": "JAXA",
+        "status": "completed",
+        "note": "Comprehensive lunar orbiter mission."
+    },
+    {
+        "year": 2007,
+        "month": 8,
+        "day": 27,
+        "rocket": "Delta II",
+        "mission": "Dawn",
+        "company": "NASA / JPL",
+        "status": "completed",
+        "note": "First mission to orbit two extraterrestrial bodies: Vesta and Ceres."
+    },
+    {
+        "year": 2007,
+        "month": 9,
+        "day": 24,
+        "rocket": "Long March 3A",
+        "mission": "Chang'e 1",
+        "company": "China",
+        "status": "completed",
+        "note": "China's first lunar probe."
+    },
+    {
+        "year": 2008,
+        "month": 5,
+        "day": 11,
+        "rocket": "Delta II",
+        "mission": "Fermi Gamma-ray Space Telescope",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Gamma-ray observatory."
+    },
+    {
+        "year": 2008,
+        "month": 8,
+        "day": 28,
+        "rocket": "Falcon 1",
+        "mission": "Falcon 1 Flight 4",
+        "company": "SpaceX",
+        "status": "completed",
+        "note": "First privately developed liquid-fueled rocket to reach orbit."
+    },
+    {
+        "year": 2008,
+        "month": 9,
+        "day": 22,
+        "rocket": "PSLV-XL",
+        "mission": "Chandrayaan-1",
+        "company": "ISRO",
+        "status": "completed",
+        "note": "India's first lunar mission."
+    },
+    {
+        "year": 2009,
+        "month": 2,
+        "day": 7,
+        "rocket": "Delta II",
+        "mission": "Kepler",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Discovered thousands of exoplanet candidates."
+    },
+    {
+        "year": 2009,
+        "month": 4,
+        "day": 14,
+        "rocket": "Ariane 5",
+        "mission": "Herschel and Planck",
+        "company": "ESA / Arianespace",
+        "status": "completed",
+        "note": "Two major European space observatories launched together."
+    },
+    {
+        "year": 2009,
+        "month": 5,
+        "day": 18,
+        "rocket": "Atlas V",
+        "mission": "LRO / LCROSS",
+        "company": "NASA / ULA",
+        "status": "completed",
+        "note": "Lunar mapping and water-ice investigation missions."
+    },
+    {
+        "year": 2009,
+        "month": 11,
+        "day": 14,
+        "rocket": "Delta II",
+        "mission": "WISE",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Infrared all-sky survey telescope."
+    },
+    {
+        "year": 2010,
+        "month": 1,
+        "day": 11,
+        "rocket": "Atlas V",
+        "mission": "Solar Dynamics Observatory",
+        "company": "NASA / ULA",
+        "status": "completed",
+        "note": "Continuous high-resolution observation of the Sun."
+    },
+    {
+        "year": 2010,
+        "month": 4,
+        "day": 20,
+        "rocket": "H-IIA",
+        "mission": "IKAROS",
+        "company": "JAXA",
+        "status": "completed",
+        "note": "First successful interplanetary solar sail."
+    },
+    {
+        "year": 2010,
+        "month": 5,
+        "day": 4,
+        "rocket": "Falcon 9",
+        "mission": "Falcon 9 Flight 1",
+        "company": "SpaceX",
+        "status": "completed",
+        "note": "First flight of Falcon 9."
+    },
+    {
+        "year": 2010,
+        "month": 9,
+        "day": 1,
+        "rocket": "Long March 3C",
+        "mission": "Chang'e 2",
+        "company": "China",
+        "status": "completed",
+        "note": "Second Chinese lunar mission; later visited asteroid Toutatis."
+    },
+    {
+        "year": 2011,
+        "month": 6,
+        "day": 8,
+        "rocket": "Space Shuttle Atlantis",
+        "mission": "STS-135",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Final Space Shuttle mission."
+    },
+    {
+        "year": 2011,
+        "month": 7,
+        "day": 5,
+        "rocket": "Atlas V",
+        "mission": "Juno",
+        "company": "NASA / ULA",
+        "status": "completed",
+        "note": "Jupiter polar orbiter."
+    },
+    {
+        "year": 2011,
+        "month": 8,
+        "day": 10,
+        "rocket": "Delta II",
+        "mission": "GRAIL",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Twin spacecraft mapped the Moon's gravity field."
+    },
+    {
+        "year": 2011,
+        "month": 8,
+        "day": 29,
+        "rocket": "Long March 2F",
+        "mission": "Tiangong-1",
+        "company": "China",
+        "status": "completed",
+        "note": "China's first prototype space station."
+    },
+    {
+        "year": 2011,
+        "month": 10,
+        "day": 26,
+        "rocket": "Atlas V",
+        "mission": "Mars Science Laboratory / Curiosity",
+        "company": "NASA / ULA",
+        "status": "completed",
+        "note": "Delivered the Curiosity rover to Mars."
+    },
+    {
+        "year": 2012,
+        "month": 4,
+        "day": 22,
+        "rocket": "Falcon 9",
+        "mission": "Dragon COTS 2",
+        "company": "SpaceX / NASA",
+        "status": "completed",
+        "note": "First commercial spacecraft to rendezvous and berth with the ISS."
+    },
+    {
+        "year": 2012,
+        "month": 5,
+        "day": 13,
+        "rocket": "Pegasus XL",
+        "mission": "NuSTAR",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Nuclear Spectroscopic Telescope Array."
+    },
+    {
+        "year": 2012,
+        "month": 5,
+        "day": 16,
+        "rocket": "Long March 2F",
+        "mission": "Shenzhou 9",
+        "company": "China",
+        "status": "completed",
+        "note": "First crewed docking with Tiangong-1 and first Chinese woman in space."
+    },
+    {
+        "year": 2012,
+        "month": 7,
+        "day": 30,
+        "rocket": "Atlas V",
+        "mission": "Van Allen Probes",
+        "company": "NASA / ULA",
+        "status": "completed",
+        "note": "Studied Earth's radiation belts."
+    },
+    {
+        "year": 2013,
+        "month": 5,
+        "day": 28,
+        "rocket": "Pegasus XL",
+        "mission": "IRIS",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Solar interface-region observatory."
+    },
+    {
+        "year": 2013,
+        "month": 8,
+        "day": 7,
+        "rocket": "Minotaur V",
+        "mission": "LADEE",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Studied the Moon's thin exosphere and dust."
+    },
+    {
+        "year": 2013,
+        "month": 10,
+        "day": 5,
+        "rocket": "PSLV-XL",
+        "mission": "Mars Orbiter Mission / Mangalyaan",
+        "company": "ISRO",
+        "status": "completed",
+        "note": "India's first interplanetary mission."
+    },
+    {
+        "year": 2013,
+        "month": 10,
+        "day": 18,
+        "rocket": "Atlas V",
+        "mission": "MAVEN",
+        "company": "NASA / ULA",
+        "status": "completed",
+        "note": "Studies the Martian upper atmosphere."
+    },
+    {
+        "year": 2013,
+        "month": 11,
+        "day": 1,
+        "rocket": "Long March 3B",
+        "mission": "Chang'e 3",
+        "company": "China",
+        "status": "completed",
+        "note": "China's first lunar soft landing and rover."
+    },
+    {
+        "year": 2013,
+        "month": 11,
+        "day": 19,
+        "rocket": "Soyuz ST-B / Fregat",
+        "mission": "Gaia",
+        "company": "ESA / Arianespace",
+        "status": "completed",
+        "note": "Precision three-dimensional survey of the Milky Way."
+    },
+    {
+        "year": 2014,
+        "month": 9,
+        "day": 23,
+        "rocket": "Long March 3C",
+        "mission": "Chang'e 5-T1",
+        "company": "China",
+        "status": "completed",
+        "note": "Tested lunar sample-return reentry technology."
+    },
+    {
+        "year": 2014,
+        "month": 11,
+        "day": 3,
+        "rocket": "H-IIA",
+        "mission": "Hayabusa2",
+        "company": "JAXA",
+        "status": "completed",
+        "note": "Returned samples from asteroid Ryugu."
+    },
+    {
+        "year": 2014,
+        "month": 11,
+        "day": 5,
+        "rocket": "Delta IV Heavy",
+        "mission": "Orion EFT-1",
+        "company": "NASA / ULA",
+        "status": "completed",
+        "note": "First uncrewed flight test of Orion."
+    },
+    {
+        "year": 2015,
+        "month": 1,
+        "day": 11,
+        "rocket": "Falcon 9",
+        "mission": "DSCOVR",
+        "company": "SpaceX / NOAA / NASA",
+        "status": "completed",
+        "note": "Space-weather observatory at Sun–Earth L1."
+    },
+    {
+        "year": 2015,
+        "month": 11,
+        "day": 3,
+        "rocket": "Vega",
+        "mission": "LISA Pathfinder",
+        "company": "ESA / Arianespace",
+        "status": "completed",
+        "note": "Demonstrated technology for gravitational-wave detection in space."
+    },
+    {
+        "year": 2015,
+        "month": 11,
+        "day": 22,
+        "rocket": "Falcon 9",
+        "mission": "ORBCOMM-2",
+        "company": "SpaceX",
+        "status": "completed",
+        "note": "First successful landing of a Falcon 9 first stage after an orbital launch."
+    },
+    {
+        "year": 2016,
+        "month": 2,
+        "day": 14,
+        "rocket": "Proton-M",
+        "mission": "ExoMars Trace Gas Orbiter",
+        "company": "ESA / Roscosmos",
+        "status": "partial",
+        "note": "Orbiter succeeded; Schiaparelli lander failed."
+    },
+    {
+        "year": 2016,
+        "month": 8,
+        "day": 8,
+        "rocket": "Atlas V",
+        "mission": "OSIRIS-REx",
+        "company": "NASA / ULA",
+        "status": "completed",
+        "note": "Returned samples from asteroid Bennu."
+    },
+    {
+        "year": 2016,
+        "month": 8,
+        "day": 15,
+        "rocket": "Long March 2F",
+        "mission": "Tiangong-2",
+        "company": "China",
+        "status": "completed",
+        "note": "Chinese space laboratory."
+    },
+    {
+        "year": 2016,
+        "month": 9,
+        "day": 17,
+        "rocket": "Long March 2F",
+        "mission": "Shenzhou 11",
+        "company": "China",
+        "status": "completed",
+        "note": "Crewed mission to Tiangong-2."
+    },
+    {
+        "year": 2017,
+        "month": 2,
+        "day": 30,
+        "rocket": "Falcon 9",
+        "mission": "SES-10",
+        "company": "SpaceX",
+        "status": "completed",
+        "note": "First reflight of an orbital-class Falcon 9 booster."
+    },
+    {
+        "year": 2018,
+        "month": 1,
+        "day": 6,
+        "rocket": "Falcon Heavy",
+        "mission": "Falcon Heavy Demo Flight",
+        "company": "SpaceX",
+        "status": "completed",
+        "note": "First flight of Falcon Heavy."
+    },
+    {
+        "year": 2018,
+        "month": 3,
+        "day": 18,
+        "rocket": "Falcon 9",
+        "mission": "TESS",
+        "company": "NASA / SpaceX",
+        "status": "completed",
+        "note": "Transiting Exoplanet Survey Satellite."
+    },
+    {
+        "year": 2018,
+        "month": 4,
+        "day": 5,
+        "rocket": "Atlas V",
+        "mission": "InSight",
+        "company": "NASA / ULA",
+        "status": "completed",
+        "note": "Mars geophysics lander."
+    },
+    {
+        "year": 2018,
+        "month": 7,
+        "day": 12,
+        "rocket": "Delta IV Heavy",
+        "mission": "Parker Solar Probe",
+        "company": "NASA / ULA",
+        "status": "completed",
+        "note": "First spacecraft to fly through the Sun's corona."
+    },
+    {
+        "year": 2018,
+        "month": 8,
+        "day": 15,
+        "rocket": "Delta II",
+        "mission": "ICESat-2",
+        "company": "NASA / ULA",
+        "status": "completed",
+        "note": "Measures changes in Earth's ice sheets and vegetation."
+    },
+    {
+        "year": 2018,
+        "month": 9,
+        "day": 20,
+        "rocket": "Ariane 5",
+        "mission": "BepiColombo",
+        "company": "ESA / JAXA / Arianespace",
+        "status": "completed",
+        "note": "Joint mission to Mercury."
+    },
+    {
+        "year": 2018,
+        "month": 11,
+        "day": 7,
+        "rocket": "Long March 3B",
+        "mission": "Chang'e 4",
+        "company": "China",
+        "status": "completed",
+        "note": "First mission to land on the Moon's far side."
+    },
+    {
+        "year": 2019,
+        "month": 2,
+        "day": 2,
+        "rocket": "Falcon 9",
+        "mission": "Crew Dragon Demo-1",
+        "company": "SpaceX / NASA",
+        "status": "completed",
+        "note": "First uncrewed Crew Dragon flight to the ISS."
+    },
+    {
+        "year": 2019,
+        "month": 3,
+        "day": 11,
+        "rocket": "Falcon Heavy",
+        "mission": "Arabsat-6A",
+        "company": "SpaceX",
+        "status": "completed",
+        "note": "First commercial Falcon Heavy mission."
+    },
+    {
+        "year": 2019,
+        "month": 4,
+        "day": 24,
+        "rocket": "Falcon 9",
+        "mission": "Starlink v0.9",
+        "company": "SpaceX",
+        "status": "completed",
+        "note": "First large batch of Starlink test satellites."
+    },
+    {
+        "year": 2019,
+        "month": 6,
+        "day": 22,
+        "rocket": "GSLV Mk III",
+        "mission": "Chandrayaan-2",
+        "company": "ISRO",
+        "status": "partial",
+        "note": "Orbiter succeeded; Vikram lander was lost."
+    },
+    {
+        "year": 2019,
+        "month": 11,
+        "day": 18,
+        "rocket": "Soyuz ST-A / Fregat",
+        "mission": "CHEOPS",
+        "company": "ESA / Arianespace",
+        "status": "completed",
+        "note": "Exoplanet-characterization mission."
+    },
+    {
+        "year": 2020,
+        "month": 1,
+        "day": 10,
+        "rocket": "Atlas V",
+        "mission": "Solar Orbiter",
+        "company": "ESA / NASA / ULA",
+        "status": "completed",
+        "note": "Studies the Sun and its polar regions."
+    },
+    {
+        "year": 2020,
+        "month": 4,
+        "day": 30,
+        "rocket": "Falcon 9",
+        "mission": "Crew Dragon Demo-2",
+        "company": "SpaceX / NASA",
+        "status": "completed",
+        "note": "First crewed orbital launch from the United States since 2011."
+    },
+    {
+        "year": 2020,
+        "month": 6,
+        "day": 19,
+        "rocket": "H-IIA",
+        "mission": "Emirates Mars Mission / Hope",
+        "company": "UAE Space Agency / MBRSC",
+        "status": "completed",
+        "note": "United Arab Emirates' first interplanetary mission."
+    },
+    {
+        "year": 2020,
+        "month": 6,
+        "day": 23,
+        "rocket": "Long March 5",
+        "mission": "Tianwen-1",
+        "company": "China",
+        "status": "completed",
+        "note": "China's first successful Mars mission."
+    },
+    {
+        "year": 2020,
+        "month": 6,
+        "day": 30,
+        "rocket": "Atlas V",
+        "mission": "Mars 2020 / Perseverance",
+        "company": "NASA / ULA",
+        "status": "completed",
+        "note": "Delivered the Perseverance rover and Ingenuity helicopter to Mars."
+    },
+    {
+        "year": 2020,
+        "month": 10,
+        "day": 16,
+        "rocket": "Falcon 9",
+        "mission": "Crew-1",
+        "company": "SpaceX / NASA",
+        "status": "completed",
+        "note": "First operational Commercial Crew mission."
+    },
+    {
+        "year": 2020,
+        "month": 10,
+        "day": 23,
+        "rocket": "Long March 5",
+        "mission": "Chang'e 5",
+        "company": "China",
+        "status": "completed",
+        "note": "China's first lunar sample-return mission."
+    },
+    {
+        "year": 2021,
+        "month": 3,
+        "day": 29,
+        "rocket": "Long March 5B",
+        "mission": "Tianhe",
+        "company": "China",
+        "status": "completed",
+        "note": "Core module of China's Tiangong space station."
+    },
+    {
+        "year": 2021,
+        "month": 5,
+        "day": 17,
+        "rocket": "Long March 2F",
+        "mission": "Shenzhou 12",
+        "company": "China",
+        "status": "completed",
+        "note": "First crewed mission to China's Tiangong station."
+    },
+    {
+        "year": 2021,
+        "month": 8,
+        "day": 16,
+        "rocket": "Falcon 9",
+        "mission": "Inspiration4",
+        "company": "SpaceX",
+        "status": "completed",
+        "note": "First all-civilian orbital crewed mission."
+    },
+    {
+        "year": 2021,
+        "month": 9,
+        "day": 16,
+        "rocket": "Atlas V",
+        "mission": "Lucy",
+        "company": "NASA / ULA",
+        "status": "completed",
+        "note": "Mission to Jupiter's Trojan asteroids."
+    },
+    {
+        "year": 2021,
+        "month": 10,
+        "day": 24,
+        "rocket": "Falcon 9",
+        "mission": "DART",
+        "company": "NASA / SpaceX",
+        "status": "completed",
+        "note": "First planetary-defense demonstration mission."
+    },
+    {
+        "year": 2021,
+        "month": 11,
+        "day": 25,
+        "rocket": "Ariane 5",
+        "mission": "James Webb Space Telescope",
+        "company": "NASA / ESA / CSA / Arianespace",
+        "status": "completed",
+        "note": "Largest space telescope launched to date."
+    },
+    {
+        "year": 2022,
+        "month": 3,
+        "day": 8,
+        "rocket": "Falcon 9",
+        "mission": "Axiom Mission 1",
+        "company": "Axiom Space / SpaceX",
+        "status": "completed",
+        "note": "First all-private astronaut mission to the ISS."
+    },
+    {
+        "year": 2022,
+        "month": 5,
+        "day": 28,
+        "rocket": "Electron",
+        "mission": "CAPSTONE",
+        "company": "NASA / Rocket Lab",
+        "status": "completed",
+        "note": "Pathfinder for the planned lunar Gateway orbit."
+    },
+    {
+        "year": 2022,
+        "month": 7,
+        "day": 4,
+        "rocket": "Falcon 9",
+        "mission": "Danuri / KPLO",
+        "company": "KARI / SpaceX",
+        "status": "completed",
+        "note": "South Korea's first lunar mission."
+    },
+    {
+        "year": 2022,
+        "month": 10,
+        "day": 16,
+        "rocket": "SLS",
+        "mission": "Artemis I",
+        "company": "NASA",
+        "status": "completed",
+        "note": "First integrated uncrewed flight of SLS and Orion around the Moon."
+    },
+    {
+        "year": 2023,
+        "month": 3,
+        "day": 14,
+        "rocket": "Ariane 5",
+        "mission": "JUICE",
+        "company": "ESA / Arianespace",
+        "status": "completed",
+        "note": "Mission to Jupiter's icy moons."
+    },
+    {
+        "year": 2023,
+        "month": 3,
+        "day": 20,
+        "rocket": "Starship",
+        "mission": "Starship Flight Test 1",
+        "company": "SpaceX",
+        "status": "failed",
+        "note": "First integrated Starship and Super Heavy flight test."
+    },
+    {
+        "year": 2023,
+        "month": 6,
+        "day": 1,
+        "rocket": "Falcon 9",
+        "mission": "Euclid",
+        "company": "ESA / SpaceX",
+        "status": "completed",
+        "note": "Cosmology mission studying dark matter and dark energy."
+    },
+    {
+        "year": 2023,
+        "month": 6,
+        "day": 14,
+        "rocket": "LVM3",
+        "mission": "Chandrayaan-3",
+        "company": "ISRO",
+        "status": "completed",
+        "note": "India's first successful lunar landing."
+    },
+    {
+        "year": 2023,
+        "month": 7,
+        "day": 10,
+        "rocket": "Soyuz-2.1b",
+        "mission": "Luna 25",
+        "company": "Roscosmos",
+        "status": "failed",
+        "note": "Lunar lander crashed during descent preparations."
+    },
+    {
+        "year": 2023,
+        "month": 8,
+        "day": 2,
+        "rocket": "PSLV-XL",
+        "mission": "Aditya-L1",
+        "company": "ISRO",
+        "status": "completed",
+        "note": "India's first solar observatory mission."
+    },
+    {
+        "year": 2023,
+        "month": 8,
+        "day": 6,
+        "rocket": "H-IIA",
+        "mission": "SLIM / XRISM",
+        "company": "JAXA / NASA",
+        "status": "completed",
+        "note": "Precision lunar lander and X-ray observatory launched together."
+    },
+    {
+        "year": 2023,
+        "month": 9,
+        "day": 13,
+        "rocket": "Falcon Heavy",
+        "mission": "Psyche",
+        "company": "NASA / SpaceX",
+        "status": "completed",
+        "note": "Mission to the metal-rich asteroid Psyche."
+    },
+    {
+        "year": 2023,
+        "month": 10,
+        "day": 18,
+        "rocket": "Starship",
+        "mission": "Starship Flight Test 2",
+        "company": "SpaceX",
+        "status": "failed",
+        "note": "Second integrated Starship flight test."
+    },
+    {
+        "year": 2024,
+        "month": 0,
+        "day": 8,
+        "rocket": "Vulcan",
+        "mission": "Peregrine Mission One",
+        "company": "Astrobotic / ULA",
+        "status": "failed",
+        "note": "First Vulcan flight; lunar landing was abandoned after a propulsion leak."
+    },
+    {
+        "year": 2024,
+        "month": 1,
+        "day": 15,
+        "rocket": "Falcon 9",
+        "mission": "IM-1 / Odysseus",
+        "company": "Intuitive Machines / SpaceX",
+        "status": "completed",
+        "note": "First U.S. lunar soft landing since Apollo and first by a commercial company."
+    },
+    {
+        "year": 2024,
+        "month": 2,
+        "day": 14,
+        "rocket": "Starship",
+        "mission": "Starship Flight Test 3",
+        "company": "SpaceX",
+        "status": "partial",
+        "note": "First Starship test to reach planned orbital-velocity trajectory."
+    },
+    {
+        "year": 2024,
+        "month": 4,
+        "day": 3,
+        "rocket": "Long March 5",
+        "mission": "Chang'e 6",
+        "company": "China",
+        "status": "completed",
+        "note": "First sample-return mission from the Moon's far side."
+    },
+    {
+        "year": 2024,
+        "month": 5,
+        "day": 5,
+        "rocket": "Atlas V",
+        "mission": "Boeing Starliner Crew Flight Test",
+        "company": "Boeing / NASA / ULA",
+        "status": "partial",
+        "note": "First crewed Starliner mission; spacecraft returned without its crew."
+    },
+    {
+        "year": 2024,
+        "month": 6,
+        "day": 9,
+        "rocket": "Ariane 6",
+        "mission": "Ariane 6 Flight VA262",
+        "company": "ESA / Arianespace",
+        "status": "partial",
+        "note": "First flight of Ariane 6; primary orbital mission succeeded."
+    },
+    {
+        "year": 2024,
+        "month": 8,
+        "day": 10,
+        "rocket": "Falcon 9",
+        "mission": "Polaris Dawn",
+        "company": "SpaceX",
+        "status": "completed",
+        "note": "First commercial spacewalk."
+    },
+    {
+        "year": 2024,
+        "month": 9,
+        "day": 7,
+        "rocket": "Falcon 9",
+        "mission": "Hera",
+        "company": "ESA / SpaceX",
+        "status": "completed",
+        "note": "Follow-up investigation of the DART asteroid-impact system."
+    },
+    {
+        "year": 2024,
+        "month": 9,
+        "day": 13,
+        "rocket": "Starship",
+        "mission": "Starship Flight Test 5",
+        "company": "SpaceX",
+        "status": "completed",
+        "note": "First catch of a Super Heavy booster by the launch-tower arms."
+    },
+    {
+        "year": 2024,
+        "month": 9,
+        "day": 14,
+        "rocket": "Falcon Heavy",
+        "mission": "Europa Clipper",
+        "company": "NASA / SpaceX",
+        "status": "completed",
+        "note": "Mission to study Jupiter's moon Europa."
+    },
+    {
+        "year": 2024,
+        "month": 11,
+        "day": 5,
+        "rocket": "PSLV-XL",
+        "mission": "Proba-3",
+        "company": "ESA / ISRO",
+        "status": "completed",
+        "note": "Precision formation-flying solar-coronagraph mission."
+    },
+    {
+        "year": 2025,
+        "month": 0,
+        "day": 15,
+        "rocket": "Falcon 9",
+        "mission": "Blue Ghost Mission 1",
+        "company": "Firefly Aerospace / SpaceX",
+        "status": "completed",
+        "note": "Commercial lunar lander mission for NASA CLPS."
+    },
+    {
+        "year": 2025,
+        "month": 0,
+        "day": 16,
+        "rocket": "New Glenn",
+        "mission": "New Glenn NG-1",
+        "company": "Blue Origin",
+        "status": "completed",
+        "note": "First orbital flight of New Glenn."
+    },
+    {
+        "year": 2025,
+        "month": 0,
+        "day": 16,
+        "rocket": "Starship",
+        "mission": "Starship Flight Test 7",
+        "company": "SpaceX",
+        "status": "partial",
+        "note": "Super Heavy was caught; the ship was lost."
+    },
+    {
+        "year": 2025,
+        "month": 1,
+        "day": 27,
+        "rocket": "Falcon 9",
+        "mission": "IM-2 / Athena",
+        "company": "Intuitive Machines / SpaceX",
+        "status": "partial",
+        "note": "Lunar south-polar landing mission."
+    },
+    {
+        "year": 2025,
+        "month": 2,
+        "day": 6,
+        "rocket": "Starship",
+        "mission": "Starship Flight Test 8",
+        "company": "SpaceX",
+        "status": "partial",
+        "note": "Super Heavy was caught; the ship was lost."
+    },
+    {
+        "year": 2025,
+        "month": 2,
+        "day": 31,
+        "rocket": "Falcon 9",
+        "mission": "Fram2",
+        "company": "SpaceX",
+        "status": "completed",
+        "note": "First human spaceflight over Earth's polar regions."
+    },
+    {
+        "year": 2025,
+        "month": 4,
+        "day": 27,
+        "rocket": "Starship",
+        "mission": "Starship Flight Test 9",
+        "company": "SpaceX",
+        "status": "partial",
+        "note": "First reuse of a Super Heavy booster on a Starship test."
+    },
+    {
+        "year": 2025,
+        "month": 5,
+        "day": 25,
+        "rocket": "Falcon 9",
+        "mission": "Axiom Mission 4",
+        "company": "Axiom Space / SpaceX",
+        "status": "completed",
+        "note": "Private astronaut mission to the ISS."
+    },
+    {
+        "year": 2025,
+        "month": 10,
+        "day": 13,
+        "rocket": "New Glenn",
+        "mission": "New Glenn NG-2 / ESCAPADE",
+        "company": "Blue Origin / NASA",
+        "status": "completed",
+        "note": "New Glenn deployed NASA's twin ESCAPADE spacecraft and landed its first stage."
+    },
+    {
+        "year": 2026,
+        "month": 0,
+        "day": 15,
+        "rocket": "Falcon 9",
+        "mission": "Crew-11",
+        "company": "SpaceX / NASA",
+        "status": "completed",
+        "note": "Operational crew rotation mission to the ISS."
+    },
+    {
         "year": 2026,
         "month": 0,
         "day": 22,
         "rocket": "New Shepard",
         "mission": "NS-38",
-        "company": "Blue Origin"
+        "company": "Blue Origin",
+        "status": "completed",
+        "note": "Blue Origin's 38th New Shepard mission."
     },
     {
         "year": 2026,
@@ -13,7 +2815,9 @@
         "day": 22,
         "rocket": "Electron",
         "mission": "The Cosmos Will See You Now",
-        "company": "Rocket Lab"
+        "company": "Rocket Lab",
+        "status": "completed",
+        "note": "Open Cosmos satellite deployment mission."
     },
     {
         "year": 2026,
@@ -21,15 +2825,9 @@
         "day": 30,
         "rocket": "Electron",
         "mission": "Bridging the Swarm",
-        "company": "Rocket Lab"
-    },
-    {
-        "year": 2026,
-        "month": 1,
-        "day": 12,
-        "rocket": "Vulcan",
-        "mission": "USSF-87",
-        "company": "United Launch Alliance"
+        "company": "Rocket Lab",
+        "status": "completed",
+        "note": "KAIST satellite mission."
     },
     {
         "year": 2026,
@@ -37,7 +2835,9 @@
         "day": 27,
         "rocket": "HASTE",
         "mission": "That's Not a Knife",
-        "company": "Rocket Lab"
+        "company": "Rocket Lab",
+        "status": "completed",
+        "note": "Suborbital hypersonic test mission."
     },
     {
         "year": 2026,
@@ -45,15 +2845,9 @@
         "day": 6,
         "rocket": "Electron",
         "mission": "Insight at Speed Is a Friend Indeed",
-        "company": "Rocket Lab"
-    },
-    {
-        "year": 2026,
-        "month": 2,
-        "day": 11,
-        "rocket": "Alpha",
-        "mission": "Stairway to Seven",
-        "company": "Firefly Aerospace"
+        "company": "Rocket Lab",
+        "status": "completed",
+        "note": "Commercial satellite mission."
     },
     {
         "year": 2026,
@@ -61,7 +2855,9 @@
         "day": 21,
         "rocket": "Electron",
         "mission": "Eight Days a Week",
-        "company": "Rocket Lab"
+        "company": "Rocket Lab",
+        "status": "completed",
+        "note": "Synspective Earth-observation mission."
     },
     {
         "year": 2026,
@@ -69,7 +2865,9 @@
         "day": 28,
         "rocket": "Electron",
         "mission": "Daughter of the Stars",
-        "company": "Rocket Lab"
+        "company": "Rocket Lab",
+        "status": "completed",
+        "note": "European Space Agency mission."
     },
     {
         "year": 2026,
@@ -77,23 +2875,19 @@
         "day": 1,
         "rocket": "SLS",
         "mission": "Artemis II",
-        "company": "NASA"
-    },
-    {
-        "year": 2026,
-        "month": 3,
-        "day": 4,
-        "rocket": "Atlas V",
-        "mission": "Amazon Leo 5",
-        "company": "United Launch Alliance"
+        "company": "NASA",
+        "status": "completed",
+        "note": "First crewed Artemis lunar flyby."
     },
     {
         "year": 2026,
         "month": 3,
         "day": 19,
         "rocket": "New Glenn",
-        "mission": "NG-3",
-        "company": "Blue Origin"
+        "mission": "New Glenn NG-3",
+        "company": "Blue Origin",
+        "status": "completed",
+        "note": "Deployed an AST SpaceMobile BlueBird satellite."
     },
     {
         "year": 2026,
@@ -101,47 +2895,29 @@
         "day": 23,
         "rocket": "Electron",
         "mission": "Kakushin Rising",
-        "company": "Rocket Lab"
-    },
-    {
-        "year": 2026,
-        "month": 3,
-        "day": 27,
-        "rocket": "Atlas V",
-        "mission": "Amazon Leo 6",
-        "company": "United Launch Alliance"
+        "company": "Rocket Lab",
+        "status": "completed",
+        "note": "JAXA mission."
     },
     {
         "year": 2026,
         "month": 4,
         "day": 22,
         "rocket": "Starship",
-        "mission": "Flight Test 12",
-        "company": "SpaceX"
-    },
-    {
-        "year": 2026,
-        "month": 4,
-        "day": 22,
-        "rocket": "Electron",
-        "mission": "Viva La StriX",
-        "company": "Rocket Lab"
-    },
-    {
-        "year": 2026,
-        "month": 4,
-        "day": 29,
-        "rocket": "Atlas V",
-        "mission": "Amazon Leo 7",
-        "company": "United Launch Alliance"
+        "mission": "Starship Flight Test 12",
+        "company": "SpaceX",
+        "status": "completed",
+        "note": "Twelfth integrated Starship flight test."
     },
     {
         "year": 2026,
         "month": 5,
-        "day": 19,
-        "rocket": "Electron",
-        "mission": "VICTUS HAZE",
-        "company": "Rocket Lab"
+        "day": 23,
+        "rocket": "Falcon 9",
+        "mission": "Starfall Demo",
+        "company": "SpaceX",
+        "status": "completed",
+        "note": "Technology demonstration mission."
     },
     {
         "year": 2026,
@@ -149,47 +2925,79 @@
         "day": 27,
         "rocket": "Electron",
         "mission": "Ten Owl of Ten",
-        "company": "Rocket Lab"
+        "company": "Rocket Lab",
+        "status": "completed",
+        "note": "Tenth successful Synspective mission launched by Electron."
     },
     {
         "year": 2026,
         "month": 6,
-        "day": 2,
-        "rocket": "Atlas V",
-        "mission": "Amazon Leo 8",
-        "company": "United Launch Alliance"
-    },
-    {
-        "year": 2026,
-        "month": 6,
-        "day": 13,
+        "day": 5,
         "rocket": "Falcon 9",
-        "mission": "Starlink 15-14",
-        "company": "SpaceX"
+        "mission": "Starlink 10-50",
+        "company": "SpaceX",
+        "status": "completed",
+        "note": "Starlink satellite deployment."
     },
     {
         "year": 2026,
         "month": 6,
-        "day": 14,
+        "day": 7,
         "rocket": "Falcon 9",
-        "mission": "Starlink Mission",
-        "company": "SpaceX"
+        "mission": "Transporter-17",
+        "company": "SpaceX",
+        "status": "completed",
+        "note": "Small-satellite rideshare mission."
     },
     {
         "year": 2026,
         "month": 6,
-        "day": 14,
-        "rocket": "Soyuz-2.1a",
-        "mission": "Soyuz MS-29",
-        "company": "Roscosmos"
+        "day": 9,
+        "rocket": "Falcon 9",
+        "mission": "Starlink 10-42",
+        "company": "SpaceX",
+        "status": "completed",
+        "note": "Starlink satellite deployment."
+    },
+    {
+        "year": 2026,
+        "month": 6,
+        "day": 16,
+        "rocket": "Falcon 9",
+        "mission": "SDA Third Tranche 1 Mission",
+        "company": "SpaceX / U.S. Space Development Agency",
+        "status": "completed",
+        "note": "Military satellite deployment mission."
     },
     {
         "year": 2026,
         "month": 6,
         "day": 16,
         "rocket": "Starship",
-        "mission": "Flight Test 13",
-        "company": "SpaceX"
+        "mission": "Starship Flight Test 13",
+        "company": "SpaceX",
+        "status": "completed",
+        "note": "Thirteenth integrated Starship flight test."
+    },
+    {
+        "year": 2026,
+        "month": 6,
+        "day": 20,
+        "rocket": "Falcon 9",
+        "mission": "Starlink 17-39",
+        "company": "SpaceX",
+        "status": "planned",
+        "note": "Date may change."
+    },
+    {
+        "year": 2026,
+        "month": 6,
+        "day": 21,
+        "rocket": "Falcon 9",
+        "mission": "MRV-MEP",
+        "company": "SpaceX / Northrop Grumman",
+        "status": "planned",
+        "note": "Date may change."
     },
     {
         "year": 2026,
@@ -197,6 +3005,8 @@
         "day": 30,
         "rocket": "Falcon Heavy",
         "mission": "Nancy Grace Roman Space Telescope",
-        "company": "NASA / SpaceX"
+        "company": "NASA / SpaceX",
+        "status": "planned",
+        "note": "Scheduled launch date; subject to change."
     }
 ]
