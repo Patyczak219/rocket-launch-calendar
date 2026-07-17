@@ -19,6 +19,16 @@
         "status": "completed",
         "note": "Carried Laika, the first animal to orbit Earth."
     },
+    {
+        "year": 1957,
+        "month": 11,
+        "day": 6,
+        "rocket": "Vanguard TV-3",
+        "mission": "Vanguard TV-3 Satellite Launch Attempt",
+        "company": "Project Vanguard / U.S. Naval Research Laboratory",
+        "status": "failed",
+        "note": "The rocket lost thrust moments after liftoff, fell back onto the launch pad and exploded. The satellite did not reach space."
+    },
    {
         "year": 1958,
         "month": 0,
