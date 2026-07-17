@@ -109,15 +109,25 @@
         "status": "completed",
         "note": "First communications satellite and the first use of an Atlas rocket to place a payload into orbit."
     }
-    {
+   {
         "year": 1959,
         "month": 0,
         "day": 2,
         "rocket": "Luna 8K72",
         "mission": "Luna 1",
         "company": "Soviet Space Program",
+        "status": "partial",
+        "note": "Missed its planned lunar impact, flew past the Moon and became the first spacecraft to enter heliocentric orbit."
+    },
+    {
+        "year": 1959,
+        "month": 1,
+        "day": 17,
+        "rocket": "Vanguard",
+        "mission": "Vanguard 2",
+        "company": "NASA / Naval Research Laboratory",
         "status": "completed",
-        "note": "First spacecraft to escape Earth gravity and enter heliocentric orbit."
+        "note": "Early weather-observation satellite designed to measure cloud-cover distribution."
     },
     {
         "year": 1959,
@@ -125,9 +135,49 @@
         "day": 3,
         "rocket": "Juno II",
         "mission": "Pioneer 4",
+        "company": "NASA / JPL",
+        "status": "partial",
+        "note": "Flew past the Moon farther away than planned and became the first United States spacecraft to enter heliocentric orbit."
+    },
+    {
+        "year": 1959,
+        "month": 3,
+        "day": 13,
+        "rocket": "Thor-Agena A",
+        "mission": "Discoverer 2",
+        "company": "U.S. Air Force / CIA",
+        "status": "partial",
+        "note": "First spacecraft stabilized in all three axes and first to send a reentry capsule back from orbit, but the capsule was not recovered."
+    },
+    {
+        "year": 1959,
+        "month": 7,
+        "day": 7,
+        "rocket": "Thor-Able III",
+        "mission": "Explorer 6",
         "company": "NASA",
         "status": "completed",
-        "note": "First U.S. spacecraft to escape Earth gravity."
+        "note": "Studied Earth's magnetosphere and transmitted the first photograph of Earth taken by a satellite in orbit."
+    },
+    {
+        "year": 1959,
+        "month": 7,
+        "day": 13,
+        "rocket": "Thor-Agena A",
+        "mission": "Discoverer 5",
+        "company": "U.S. Air Force / CIA",
+        "status": "partial",
+        "note": "Reached orbit, but a power-system failure prevented the planned recovery mission."
+    },
+    {
+        "year": 1959,
+        "month": 7,
+        "day": 19,
+        "rocket": "Thor-Agena A",
+        "mission": "Discoverer 6",
+        "company": "U.S. Air Force / CIA",
+        "status": "partial",
+        "note": "Reached orbit, but a retrorocket malfunction prevented recovery of the capsule."
     },
     {
         "year": 1959,
@@ -137,7 +187,7 @@
         "mission": "Luna 2",
         "company": "Soviet Space Program",
         "status": "completed",
-        "note": "First human-made object to reach the Moon."
+        "note": "First human-made object to reach the surface of another celestial body by impacting the Moon."
     },
     {
         "year": 1959,
@@ -147,8 +197,38 @@
         "mission": "Luna 3",
         "company": "Soviet Space Program",
         "status": "completed",
-        "note": "First photographs of the Moon's far side."
+        "note": "Returned the first photographs of the far side of the Moon."
     },
+    {
+        "year": 1959,
+        "month": 9,
+        "day": 13,
+        "rocket": "Juno II",
+        "mission": "Explorer 7",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Studied energetic particles, micrometeoroids and Earth's radiation balance."
+    },
+    {
+        "year": 1959,
+        "month": 10,
+        "day": 7,
+        "rocket": "Thor-Agena A",
+        "mission": "Discoverer 7",
+        "company": "U.S. Air Force / CIA",
+        "status": "partial",
+        "note": "Reached orbit, but spacecraft tumbling prevented the planned reconnaissance and recovery objectives."
+    },
+    {
+        "year": 1959,
+        "month": 10,
+        "day": 20,
+        "rocket": "Thor-Agena A",
+        "mission": "Discoverer 8",
+        "company": "U.S. Air Force / CIA",
+        "status": "partial",
+        "note": "Reached an incorrect orbit and the reentry capsule could not be recovered."
+    }
     {
         "year": 1960,
         "month": 3,
