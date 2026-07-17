@@ -869,6 +869,26 @@
         "status": "partial",
         "note": "Reached orbit, but retrofire failed and the planned film-recovery capsule was not returned."
     },
+     {
+        "year": 1962,
+        "month": 0,
+        "day": 26,
+        "rocket": "Atlas LV-3A Agena-B",
+        "mission": "Ranger 3",
+        "company": "NASA / JPL",
+        "status": "partial",
+        "note": "Lunar impact mission that missed the Moon because of an upper-stage guidance malfunction and entered heliocentric orbit."
+    },
+    {
+        "year": 1962,
+        "month": 1,
+        "day": 8,
+        "rocket": "Thor-Delta",
+        "mission": "TIROS-4",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Weather satellite that returned television images of cloud systems."
+    },
     {
         "year": 1962,
         "month": 1,
@@ -881,13 +901,253 @@
     },
     {
         "year": 1962,
+        "month": 1,
+        "day": 21,
+        "rocket": "Thor-Agena B",
+        "mission": "FTV-2301 / Samos-F2 1",
+        "company": "U.S. Air Force",
+        "status": "partial",
+        "note": "Electronic-intelligence satellite placed into a lower orbit than planned after the upper stage failed to restart."
+    },
+    {
+        "year": 1962,
+        "month": 1,
+        "day": 27,
+        "rocket": "Thor-Agena B",
+        "mission": "Discoverer 38 / KH-4 1",
+        "company": "NRO / CIA",
+        "status": "partial",
+        "note": "First KH-4 reconnaissance mission; its film capsule was recovered, but the images were out of focus."
+    },
+    {
+        "year": 1962,
+        "month": 2,
+        "day": 7,
+        "rocket": "Thor-Delta",
+        "mission": "OSO-1",
+        "company": "NASA",
+        "status": "completed",
+        "note": "First successful Orbiting Solar Observatory."
+    },
+    {
+        "year": 1962,
+        "month": 2,
+        "day": 7,
+        "rocket": "Atlas-Agena B",
+        "mission": "Samos 6",
+        "company": "U.S. Air Force",
+        "status": "partial",
+        "note": "Reconnaissance spacecraft reached orbit, but its planned film-return vehicle was not successfully recovered."
+    },
+    {
+        "year": 1962,
+        "month": 2,
+        "day": 16,
+        "rocket": "Kosmos-2I 63S1",
+        "mission": "Kosmos 1",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "First satellite launched under the Kosmos designation; studied the ionosphere and tested spacecraft systems."
+    },
+    {
+        "year": 1962,
+        "month": 3,
+        "day": 6,
+        "rocket": "Kosmos-2I 63S1",
+        "mission": "Kosmos 2",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Scientific and technology satellite for upper-atmosphere and radiation research."
+    },
+    {
+        "year": 1962,
+        "month": 3,
+        "day": 9,
+        "rocket": "Atlas-Agena B",
+        "mission": "MIDAS 5 / West Ford Drag",
+        "company": "U.S. Air Force",
+        "status": "completed",
+        "note": "Missile-warning satellite carrying an experiment related to the West Ford communications project."
+    },
+    {
+        "year": 1962,
+        "month": 3,
+        "day": 18,
+        "rocket": "Thor-Agena B",
+        "mission": "Discoverer 39 / KH-4 2",
+        "company": "NRO / CIA",
+        "status": "completed",
+        "note": "Photographic reconnaissance mission with a successfully recovered film capsule."
+    },
+    {
+        "year": 1962,
+        "month": 3,
+        "day": 23,
+        "rocket": "Atlas-Agena B",
+        "mission": "Ranger 4",
+        "company": "NASA / JPL",
+        "status": "partial",
+        "note": "First United States spacecraft to reach the Moon, but a spacecraft failure prevented scientific data transmission before impact."
+    },
+    {
+        "year": 1962,
+        "month": 3,
+        "day": 24,
+        "rocket": "Kosmos-2I 63S1",
+        "mission": "Kosmos 3",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Scientific satellite intended for upper-atmosphere and radiation measurements."
+    },
+    {
+        "year": 1962,
+        "month": 3,
+        "day": 26,
+        "rocket": "Thor-Delta",
+        "mission": "Ariel 1",
+        "company": "United Kingdom / NASA",
+        "status": "completed",
+        "note": "First satellite operated by a country other than the Soviet Union or United States."
+    },
+    {
+        "year": 1962,
+        "month": 3,
+        "day": 26,
+        "rocket": "Vostok-K",
+        "mission": "Kosmos 4",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Zenit-2 photographic reconnaissance spacecraft."
+    },
+    {
+        "year": 1962,
+        "month": 3,
+        "day": 26,
+        "rocket": "Atlas-Agena B",
+        "mission": "Samos 7",
+        "company": "U.S. Air Force",
+        "status": "completed",
+        "note": "Military reconnaissance satellite."
+    },
+    {
+        "year": 1962,
+        "month": 3,
+        "day": 29,
+        "rocket": "Thor-Agena B",
+        "mission": "Discoverer 40 / KH-4 3",
+        "company": "NRO / CIA",
+        "status": "completed",
+        "note": "Photographic reconnaissance mission."
+    },
+    {
+        "year": 1962,
+        "month": 4,
+        "day": 15,
+        "rocket": "Thor-Agena B",
+        "mission": "KH-5 5",
+        "company": "NRO / CIA",
+        "status": "completed",
+        "note": "Argon photographic mapping and reconnaissance mission."
+    },
+    {
+        "year": 1962,
         "month": 4,
         "day": 24,
         "rocket": "Atlas LV-3B",
         "mission": "Aurora 7",
         "company": "NASA",
         "status": "completed",
-        "note": "Mercury orbital mission flown by Scott Carpenter."
+        "note": "Scott Carpenter completed three Earth orbits during the second American crewed orbital mission."
+    },
+    {
+        "year": 1962,
+        "month": 4,
+        "day": 28,
+        "rocket": "Kosmos-2I 63S1",
+        "mission": "Kosmos 5",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Scientific satellite studying radiation and charged particles."
+    },
+    {
+        "year": 1962,
+        "month": 4,
+        "day": 30,
+        "rocket": "Thor-Agena B",
+        "mission": "Discoverer 41 / KH-4 4",
+        "company": "NRO / CIA",
+        "status": "completed",
+        "note": "Photographic reconnaissance mission."
+    },
+    {
+        "year": 1962,
+        "month": 5,
+        "day": 2,
+        "rocket": "Thor-Agena B",
+        "mission": "Discoverer 42 / KH-4 5 and OSCAR 2",
+        "company": "NRO / CIA / Project OSCAR",
+        "status": "completed",
+        "note": "Reconnaissance mission that also deployed the second amateur-radio satellite."
+    },
+    {
+        "year": 1962,
+        "month": 5,
+        "day": 17,
+        "rocket": "Atlas-Agena B",
+        "mission": "Samos 8",
+        "company": "U.S. Air Force",
+        "status": "completed",
+        "note": "Military reconnaissance satellite."
+    },
+    {
+        "year": 1962,
+        "month": 5,
+        "day": 18,
+        "rocket": "Thor-Agena B",
+        "mission": "FTV-2302 / Samos-F2 2",
+        "company": "U.S. Air Force",
+        "status": "completed",
+        "note": "Electronic-intelligence satellite."
+    },
+    {
+        "year": 1962,
+        "month": 5,
+        "day": 19,
+        "rocket": "Thor-Delta",
+        "mission": "TIROS-5",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Weather satellite that returned cloud-cover imagery."
+    },
+    {
+        "year": 1962,
+        "month": 5,
+        "day": 23,
+        "rocket": "Thor-Agena B",
+        "mission": "Discoverer 43 / KH-4 6",
+        "company": "NRO / CIA",
+        "status": "completed",
+        "note": "Photographic reconnaissance mission."
+    },
+    {
+        "year": 1962,
+        "month": 5,
+        "day": 28,
+        "rocket": "Thor-Agena D",
+        "mission": "Discoverer 44 / KH-4 7",
+        "company": "NRO / CIA",
+        "status": "completed",
+        "note": "Photographic reconnaissance mission and first KH-4 launch using an Agena D upper stage."
+    },
+    {
+        "year": 1962,
+        "month": 5,
+        "day": 30,
+        "rocket": "Kosmos-2I 63S1",
+        "mission": "Kosmos 6",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Radar-calibration and technology satellite."
     },
     {
         "year": 1962,
@@ -896,8 +1156,78 @@
         "rocket": "Thor-Delta",
         "mission": "Telstar 1",
         "company": "AT&T / NASA",
+        "status": "partial",
+        "note": "First active communications satellite; later damaged by radiation associated with high-altitude nuclear testing."
+    },
+    {
+        "year": 1962,
+        "month": 6,
+        "day": 17,
+        "rocket": "X-15A",
+        "mission": "X-15 Flight 62",
+        "company": "NASA / U.S. Air Force",
         "status": "completed",
-        "note": "Pioneering active communications satellite."
+        "note": "Robert White flew to 95.9 kilometres, becoming the first X-15 pilot to earn United States astronaut wings."
+    },
+    {
+        "year": 1962,
+        "month": 6,
+        "day": 18,
+        "rocket": "Atlas-Agena B",
+        "mission": "Samos 9",
+        "company": "U.S. Air Force",
+        "status": "completed",
+        "note": "Military reconnaissance satellite."
+    },
+    {
+        "year": 1962,
+        "month": 6,
+        "day": 21,
+        "rocket": "Thor-Agena B",
+        "mission": "Discoverer 45 / KH-4 8",
+        "company": "NRO / CIA",
+        "status": "completed",
+        "note": "Photographic reconnaissance mission."
+    },
+    {
+        "year": 1962,
+        "month": 6,
+        "day": 28,
+        "rocket": "Thor-Agena B",
+        "mission": "Discoverer 46 / KH-4 9",
+        "company": "NRO / CIA",
+        "status": "completed",
+        "note": "Photographic reconnaissance mission."
+    },
+    {
+        "year": 1962,
+        "month": 6,
+        "day": 28,
+        "rocket": "Vostok-2",
+        "mission": "Kosmos 7",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Zenit-2 photographic reconnaissance spacecraft."
+    },
+    {
+        "year": 1962,
+        "month": 7,
+        "day": 2,
+        "rocket": "Thor-Agena D",
+        "mission": "Discoverer 47 / KH-4 10",
+        "company": "NRO / CIA",
+        "status": "completed",
+        "note": "Photographic reconnaissance mission."
+    },
+    {
+        "year": 1962,
+        "month": 7,
+        "day": 5,
+        "rocket": "Atlas-Agena B",
+        "mission": "Samos 10",
+        "company": "U.S. Air Force",
+        "status": "completed",
+        "note": "Military reconnaissance satellite."
     },
     {
         "year": 1962,
@@ -907,7 +1237,7 @@
         "mission": "Vostok 3",
         "company": "Soviet Space Program",
         "status": "completed",
-        "note": "Joint mission flown near Vostok 4."
+        "note": "Andriyan Nikolayev flew near Vostok 4 during the first simultaneous crewed orbital missions."
     },
     {
         "year": 1962,
@@ -917,7 +1247,37 @@
         "mission": "Vostok 4",
         "company": "Soviet Space Program",
         "status": "completed",
-        "note": "Joint mission flown near Vostok 3."
+        "note": "Pavel Popovich flew near Vostok 3 during the first simultaneous crewed orbital missions."
+    },
+    {
+        "year": 1962,
+        "month": 7,
+        "day": 18,
+        "rocket": "Kosmos-2I 63S1",
+        "mission": "Kosmos 8",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Technology and scientific satellite."
+    },
+    {
+        "year": 1962,
+        "month": 7,
+        "day": 23,
+        "rocket": "Scout X-2M",
+        "mission": "DSAP-1 F2",
+        "company": "U.S. Air Force",
+        "status": "completed",
+        "note": "Early Defense Meteorological Satellite Program weather satellite."
+    },
+    {
+        "year": 1962,
+        "month": 7,
+        "day": 25,
+        "rocket": "Molniya 8K78",
+        "mission": "Sputnik 19 / Venera 2MV-1 No. 1",
+        "company": "Soviet Space Program",
+        "status": "partial",
+        "note": "Venus lander remained in Earth orbit after its escape stage lost attitude control."
     },
     {
         "year": 1962,
@@ -927,7 +1287,107 @@
         "mission": "Mariner 2",
         "company": "NASA / JPL",
         "status": "completed",
-        "note": "First successful planetary flyby, at Venus."
+        "note": "First successful planetary flyby and first spacecraft to return close-range scientific data from another planet."
+    },
+    {
+        "year": 1962,
+        "month": 7,
+        "day": 29,
+        "rocket": "Thor-Agena D",
+        "mission": "Discoverer 48 / KH-4 11",
+        "company": "NRO / CIA",
+        "status": "completed",
+        "note": "Photographic reconnaissance mission."
+    },
+    {
+        "year": 1962,
+        "month": 8,
+        "day": 1,
+        "rocket": "Thor-Agena B",
+        "mission": "KH-5 6",
+        "company": "NRO / CIA",
+        "status": "completed",
+        "note": "Argon photographic mapping and reconnaissance mission."
+    },
+    {
+        "year": 1962,
+        "month": 8,
+        "day": 1,
+        "rocket": "Molniya 8K78",
+        "mission": "Sputnik 20 / Venera 2MV-1 No. 2",
+        "company": "Soviet Space Program",
+        "status": "partial",
+        "note": "Venus lander remained in Earth orbit after a valve failure prevented the escape-stage engine from firing."
+    },
+    {
+        "year": 1962,
+        "month": 8,
+        "day": 12,
+        "rocket": "Molniya 8K78",
+        "mission": "Sputnik 21 / Venera 2MV-2 No. 1",
+        "company": "Soviet Space Program",
+        "status": "partial",
+        "note": "Venus flyby probe remained in Earth orbit after its escape stage failed."
+    },
+    {
+        "year": 1962,
+        "month": 8,
+        "day": 17,
+        "rocket": "Thor-Agena B",
+        "mission": "Discoverer 49 / KH-4 12 and TRS 2",
+        "company": "NRO / CIA / U.S. Air Force",
+        "status": "completed",
+        "note": "Reconnaissance mission that also deployed a technology-research satellite."
+    },
+    {
+        "year": 1962,
+        "month": 8,
+        "day": 18,
+        "rocket": "Thor-Delta",
+        "mission": "TIROS-6",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Weather satellite that returned cloud-cover imagery."
+    },
+    {
+        "year": 1962,
+        "month": 8,
+        "day": 27,
+        "rocket": "Vostok-2",
+        "mission": "Kosmos 9",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Zenit-2 photographic reconnaissance spacecraft."
+    },
+    {
+        "year": 1962,
+        "month": 8,
+        "day": 29,
+        "rocket": "Thor-Agena B",
+        "mission": "Alouette 1 / TAVE",
+        "company": "Canada / United States",
+        "status": "completed",
+        "note": "Alouette 1 became Canada's first satellite and the first satellite designed and built outside the United States and Soviet Union."
+    },
+    {
+        "year": 1962,
+        "month": 8,
+        "day": 29,
+        "rocket": "Thor-Agena D",
+        "mission": "Discoverer 50 / KH-4 13",
+        "company": "NRO / CIA",
+        "status": "completed",
+        "note": "Photographic reconnaissance mission."
+    },
+    {
+        "year": 1962,
+        "month": 9,
+        "day": 2,
+        "rocket": "Delta A",
+        "mission": "Explorer 14",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Studied energetic particles and Earth's magnetosphere."
     },
     {
         "year": 1962,
@@ -937,7 +1397,207 @@
         "mission": "Sigma 7",
         "company": "NASA",
         "status": "completed",
-        "note": "Mercury orbital mission flown by Wally Schirra."
+        "note": "Wally Schirra completed six Earth orbits during Mercury-Atlas 8."
+    },
+    {
+        "year": 1962,
+        "month": 9,
+        "day": 9,
+        "rocket": "Thor-Agena B",
+        "mission": "KH-5 7",
+        "company": "NRO / CIA",
+        "status": "completed",
+        "note": "Argon photographic mapping and reconnaissance mission."
+    },
+    {
+        "year": 1962,
+        "month": 9,
+        "day": 17,
+        "rocket": "Vostok-2",
+        "mission": "Kosmos 10",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Zenit-2 photographic reconnaissance spacecraft."
+    },
+    {
+        "year": 1962,
+        "month": 9,
+        "day": 18,
+        "rocket": "Atlas-Agena B",
+        "mission": "Ranger 5",
+        "company": "NASA / JPL",
+        "status": "partial",
+        "note": "Lunar impact mission lost electrical power, missed the Moon and entered heliocentric orbit."
+    },
+    {
+        "year": 1962,
+        "month": 9,
+        "day": 20,
+        "rocket": "Kosmos-2I 63S1",
+        "mission": "Kosmos 11",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Technology and scientific satellite."
+    },
+    {
+        "year": 1962,
+        "month": 9,
+        "day": 24,
+        "rocket": "Molniya 8K78",
+        "mission": "Sputnik 22 / Mars 2MV-4 No. 1",
+        "company": "Soviet Space Program",
+        "status": "partial",
+        "note": "Mars flyby spacecraft remained in Earth orbit after its escape stage failed."
+    },
+    {
+        "year": 1962,
+        "month": 9,
+        "day": 26,
+        "rocket": "Thor-Agena D",
+        "mission": "Star-Rad 1",
+        "company": "U.S. Air Force",
+        "status": "completed",
+        "note": "Radiation-measurement and technology satellite."
+    },
+    {
+        "year": 1962,
+        "month": 9,
+        "day": 27,
+        "rocket": "Delta A",
+        "mission": "Explorer 15",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Studied artificial radiation belts created by high-altitude nuclear tests."
+    },
+    {
+        "year": 1962,
+        "month": 9,
+        "day": 31,
+        "rocket": "Thor-Ablestar",
+        "mission": "ANNA 1B",
+        "company": "U.S. Army / U.S. Navy / NASA",
+        "status": "completed",
+        "note": "Geodetic satellite used to improve measurements of Earth's size and shape."
+    },
+    {
+        "year": 1962,
+        "month": 10,
+        "day": 1,
+        "rocket": "Molniya 8K78",
+        "mission": "Mars 1",
+        "company": "Soviet Space Program",
+        "status": "partial",
+        "note": "First spacecraft launched successfully toward Mars; contact was lost before its distant flyby."
+    },
+    {
+        "year": 1962,
+        "month": 10,
+        "day": 4,
+        "rocket": "Molniya 8K78",
+        "mission": "Sputnik 24 / Mars 2MV-3 No. 1",
+        "company": "Soviet Space Program",
+        "status": "partial",
+        "note": "Mars lander remained in Earth orbit after the escape stage failed."
+    },
+    {
+        "year": 1962,
+        "month": 10,
+        "day": 5,
+        "rocket": "Thor-Agena B",
+        "mission": "Discoverer 51 / KH-4 14",
+        "company": "NRO / CIA",
+        "status": "completed",
+        "note": "Photographic reconnaissance mission."
+    },
+    {
+        "year": 1962,
+        "month": 10,
+        "day": 11,
+        "rocket": "Atlas-Agena B",
+        "mission": "Samos 11 / TRS 1",
+        "company": "U.S. Air Force",
+        "status": "completed",
+        "note": "Military reconnaissance and technology-research mission."
+    },
+    {
+        "year": 1962,
+        "month": 10,
+        "day": 24,
+        "rocket": "Thor-Agena B",
+        "mission": "Discoverer 52 / KH-4 15",
+        "company": "NRO / CIA",
+        "status": "completed",
+        "note": "Photographic reconnaissance mission."
+    },
+    {
+        "year": 1962,
+        "month": 11,
+        "day": 4,
+        "rocket": "Thor-Agena D",
+        "mission": "Discoverer 53 / KH-4 16",
+        "company": "NRO / CIA",
+        "status": "completed",
+        "note": "Photographic reconnaissance mission."
+    },
+    {
+        "year": 1962,
+        "month": 11,
+        "day": 13,
+        "rocket": "Thor-Agena D",
+        "mission": "Poppy 3A / Poppy 3B / Injun 3 / Surcal 2 / Calsphere 1 / Wild Bill 2",
+        "company": "U.S. Navy / U.S. Air Force / University of Iowa",
+        "status": "partial",
+        "note": "Multi-satellite military and scientific launch placed its payloads into an orbit that differed from the intended one."
+    },
+    {
+        "year": 1962,
+        "month": 11,
+        "day": 13,
+        "rocket": "Delta B",
+        "mission": "Relay 1",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Experimental active communications satellite used for television and data transmissions."
+    },
+    {
+        "year": 1962,
+        "month": 11,
+        "day": 14,
+        "rocket": "Thor-Agena D",
+        "mission": "Discoverer 54 / KH-4 17",
+        "company": "NRO / CIA",
+        "status": "completed",
+        "note": "Photographic reconnaissance mission."
+    },
+    {
+        "year": 1962,
+        "month": 11,
+        "day": 16,
+        "rocket": "Scout X-3",
+        "mission": "Explorer 16",
+        "company": "NASA",
+        "status": "partial",
+        "note": "Micrometeoroid-research satellite placed into a lower orbit than planned."
+    },
+    {
+        "year": 1962,
+        "month": 11,
+        "day": 19,
+        "rocket": "Scout X-3",
+        "mission": "Transit 5A-1",
+        "company": "U.S. Navy",
+        "status": "completed",
+        "note": "Experimental navigation satellite."
+    },
+    {
+        "year": 1962,
+        "month": 11,
+        "day": 22,
+        "rocket": "Vostok-2",
+        "mission": "Kosmos 12",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Zenit-2 photographic reconnaissance spacecraft."
     },
     {
         "year": 1963,
