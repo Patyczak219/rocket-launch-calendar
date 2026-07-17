@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Rocket Launch Calendar</title>
+    <style>
+        #main-title {
+            text-align: center;
+            font-size: 40px;
+            font-family: system-ui, sans-serif;
+        }
+
+        body {
+            margin: 0;
+        }
+        header {
+            background:
+                linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)),
+                url("main_title_background.jpg");
+
+            background-size: cover;
+            background-position: center;
+            height: 250px;
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            color: white;
+        }
+
+        #upcoming_launches {
+            text-align: center;
+            font-size: 20px;
+            font-family: system-ui, sans-serif;
+        }
+        main {
+            min-height: 1200px;
+            padding: 30px;
+        }
+
+        .calendar {
+            max-width: 900px;
+            margin: 40px auto;
+            font-family: system-ui, sans-serif;
+        }
+
+        .calendar-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .weekdays,
+        .days {
+            display: grid;
+            grid-template-columns: repeat(7, 1fr);
+        }
+        .weekdays div,
+        .days div {
+            padding: 20px;
+            border: 1px solid #ccc;
+            text-align: center;
+            min-height: 50px;
+        }
+
+        .launch-day {
+            background-color: #e8f4ff;
+            font-weight: bold;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+
+        .launch-day span {
+            display: block;
+            margin-top: 8px;
+            font-size: 12px;
+            font-weight: normal;
+        }
+        .launch-day:hover {
+            transform: scale(1.05);
+            background-color: #cfe8ff;
+        }
+
+        #launch-details {
+            max-width: 860px;
+            margin: 20px auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            font-family: system-ui, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1 id="main-title">Rocket Launch Calendar</h1>
+    </header>
+    <main>
+        <h2 id="upcoming_launches">Upcoming Launches</h2>
+
+        <section class="calendar">
+            <div class="calendar-header">
+                <button id="prev-month">&lt;</button>
+                <h2 id="month-title">July 2026</h2>
+                <button id="next-month">&gt;</button>
+            </div>
+            <div class="weekdays">
+                <div>Mon</div>
+                <div>Tue</div>
+                <div>Wed</div>
+                <div>Thu</div>
+                <div>Fri</div>
+                <div>Sat</div>
+                <div>Sun</div>
+            </div>
+           
+            <div class="days" id="calendar-days"></div>
+            <div id="launch-details">
+                Click a launch to see details.
+            </div>
+        </section>
+    </main>
+   <script>
+        let launches = [];
+
+        let month = 6;
+        let year = 2026;
+        const months = [
+            "January", "February", "March", "April",
+            "May", "June", "July", "August",
+            "September", "October", "November", "December"
+        ];
+
+        document.getElementById("prev-month").addEventListener("click", function () {
+            if(month === 0) {
+                month = 11;
+                year--;
+            }
+            else {
+                month--;
+            }
+            updateMonthTitle();
+            renderCalendar();
+        });
+        document.getElementById("next-month").addEventListener("click", function () {
+            if(month === 11) {
+                month = 0;
+                year++;
+            }
+            else {
+                month++;
+            }
+            updateMonthTitle();
+            renderCalendar();
+        });
+
+        async function loadLaunches() {
+            try {
+                const response = await fetch("launches.json");
+
+                if (!response.ok) {
+                    throw new Error("Nie udało się wczytać launches.json");
+                }
+
+                launches = await response.json();
+
+                updateMonthTitle();
+                renderCalendar();
+            } catch (error) {
+                console.error(error);
+
+                document.getElementById("launch-details").textContent =
+                    "Could not load launch data.";
+            }
+        }
+
+        function updateMonthTitle() {
+            document.getElementById("month-title").textContent =
+                months[month] + " " + year;
+        }
+
+        function renderCalendar() {
+            const calendarDays = document.getElementById("calendar-days");
+
+            calendarDays.innerHTML = "";
+
+            const firstDay = new Date(year, month, 1);
+            const daysInMonth = new Date(year, month + 1, 0).getDate();
+
+            let startingDay = firstDay.getDay();
+
+            startingDay = startingDay === 0 ? 6 : startingDay - 1;
+
+            for (let i = 0; i < startingDay; i++) {
+                const emptyDay = document.createElement("div");
+                calendarDays.appendChild(emptyDay);
+            }
+
+            for (let day = 1; day <= daysInMonth; day++) {
+                const dayElement = document.createElement("div");
+                dayElement.textContent = day;
+
+                const dayLaunches = launches.filter(function (item) {
+                    return (
+                        item.year === year &&
+                        item.month === month &&
+                        item.day === day
+                    );
+                });
+
+                if (dayLaunches.length > 0) {
+                    dayElement.classList.add("launch-day");
+
+                    dayLaunches.forEach(function (launch) {
+                        const rocketName = document.createElement("span");
+                        rocketName.textContent = launch.rocket;
+
+                        dayElement.appendChild(rocketName);
+                    });
+
+                    dayElement.addEventListener("click", function () {
+                        showDetails(dayLaunches);
+                    });
+                }
+
+                calendarDays.appendChild(dayElement);
+            }
+            document.getElementById("launch-details").textContent =
+                "Click a launch to see details.";
+        }
+
+        function showDetails(dayLaunches) {
+            let details = "";
+
+            dayLaunches.forEach(function (launch) {
+                details += `
+                    <div class="mission-details">
+                        <h3>${launch.mission}</h3>
+                        <p>Rocket: ${launch.rocket}</p>
+                        <p>Date: ${launch.day} ${months[launch.month]} ${launch.year}</p>
+                        <p>Company: ${launch.company}</p>
+                    </div>
+                `;
+            });
+
+            document.getElementById("launch-details").innerHTML = details;
+        }
+        loadLaunches();
+   </script> 
+</body>
+</html>
