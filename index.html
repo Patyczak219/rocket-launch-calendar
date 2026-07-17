@@ -231,7 +231,7 @@
 
         function showDetails(dayLaunches) {
             let details = "";
-
+        
             dayLaunches.forEach(function (launch) {
                 details += `
                     <div class="mission-details">
@@ -239,10 +239,12 @@
                         <p>Rocket: ${launch.rocket}</p>
                         <p>Date: ${launch.day} ${months[launch.month]} ${launch.year}</p>
                         <p>Company: ${launch.company}</p>
+                        <p>Status: ${launch.status ?? "unknown"}</p>
+                        <p>Note: ${launch.note ?? "No additional information."}</p>
                     </div>
                 `;
             });
-
+        
             document.getElementById("launch-details").innerHTML = details;
         }
         loadLaunches();
