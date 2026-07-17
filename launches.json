@@ -241,13 +241,93 @@
     },
     {
         "year": 1960,
+        "month": 2,
+        "day": 11,
+        "rocket": "Thor-Able IV",
+        "mission": "Pioneer 5",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Interplanetary probe launched toward the region between Earth and Venus; returned data from deep space."
+    },
+    {
+        "year": 1960,
         "month": 3,
         "day": 1,
-        "rocket": "Thor-Able",
+        "rocket": "Thor-Able II",
         "mission": "TIROS-1",
-        "company": "NASA / NOAA",
+        "company": "NASA",
         "status": "completed",
-        "note": "First successful weather satellite."
+        "note": "First successful weather satellite, returning television images of cloud systems."
+    },
+    {
+        "year": 1960,
+        "month": 3,
+        "day": 13,
+        "rocket": "Thor-Ablestar",
+        "mission": "Transit 1B",
+        "company": "U.S. Navy",
+        "status": "completed",
+        "note": "First successful experimental satellite of the Transit navigation system."
+    },
+    {
+        "year": 1960,
+        "month": 3,
+        "day": 15,
+        "rocket": "Thor-Agena A",
+        "mission": "Discoverer 11",
+        "company": "U.S. Air Force / CIA",
+        "status": "partial",
+        "note": "Reached orbit, but the reentry capsule was not recovered."
+    },
+    {
+        "year": 1960,
+        "month": 4,
+        "day": 15,
+        "rocket": "Vostok-L",
+        "mission": "Korabl-Sputnik 1 / Sputnik 4",
+        "company": "Soviet Space Program",
+        "status": "partial",
+        "note": "First prototype of the Vostok crewed spacecraft; an incorrectly oriented retrofire raised its orbit instead of returning it."
+    },
+    {
+        "year": 1960,
+        "month": 4,
+        "day": 24,
+        "rocket": "Atlas-Agena A",
+        "mission": "MIDAS 2",
+        "company": "U.S. Air Force",
+        "status": "partial",
+        "note": "Experimental missile-warning satellite that reached orbit but returned limited data because of a communications failure."
+    },
+    {
+        "year": 1960,
+        "month": 5,
+        "day": 22,
+        "rocket": "Thor-Ablestar",
+        "mission": "Transit 2A",
+        "company": "U.S. Navy",
+        "status": "completed",
+        "note": "Experimental navigation and geodesy satellite."
+    },
+    {
+        "year": 1960,
+        "month": 5,
+        "day": 22,
+        "rocket": "Thor-Ablestar",
+        "mission": "Solrad 1 / GRAB 1",
+        "company": "U.S. Naval Research Laboratory",
+        "status": "completed",
+        "note": "First successful signals-intelligence satellite and a solar-radiation research payload, launched together with Transit 2A."
+    },
+    {
+        "year": 1960,
+        "month": 7,
+        "day": 10,
+        "rocket": "Thor-Agena A",
+        "mission": "Discoverer 13",
+        "company": "U.S. Air Force / CIA",
+        "status": "completed",
+        "note": "First human-made object recovered after returning from orbit."
     },
     {
         "year": 1960,
@@ -257,17 +337,107 @@
         "mission": "Echo 1A",
         "company": "NASA",
         "status": "completed",
-        "note": "Early passive communications satellite."
+        "note": "First successful passive communications satellite, using a large reflective balloon."
+    },
+    {
+        "year": 1960,
+        "month": 7,
+        "day": 18,
+        "rocket": "Thor-Agena A",
+        "mission": "Discoverer 14",
+        "company": "U.S. Air Force / CIA",
+        "status": "completed",
+        "note": "First successful recovery of photographic reconnaissance film from orbit by a mid-air aircraft capture."
     },
     {
         "year": 1960,
         "month": 7,
         "day": 19,
         "rocket": "Vostok-L",
-        "mission": "Korabl-Sputnik 2",
+        "mission": "Korabl-Sputnik 2 / Sputnik 5",
         "company": "Soviet Space Program",
         "status": "completed",
-        "note": "Belka and Strelka returned safely from orbit."
+        "note": "Belka and Strelka became the first animals to orbit Earth and return alive."
+    },
+    {
+        "year": 1960,
+        "month": 8,
+        "day": 13,
+        "rocket": "Thor-Agena A",
+        "mission": "Discoverer 15",
+        "company": "U.S. Air Force / CIA",
+        "status": "partial",
+        "note": "Reached orbit, but the reentry capsule sank before it could be recovered."
+    },
+    {
+        "year": 1960,
+        "month": 9,
+        "day": 4,
+        "rocket": "Thor-Ablestar",
+        "mission": "Courier 1B",
+        "company": "U.S. Army",
+        "status": "completed",
+        "note": "Experimental active communications satellite capable of storing and forwarding messages."
+    },
+    {
+        "year": 1960,
+        "month": 10,
+        "day": 3,
+        "rocket": "Juno II",
+        "mission": "Explorer 8",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Studied charged particles, electrons and the ionosphere."
+    },
+    {
+        "year": 1960,
+        "month": 10,
+        "day": 12,
+        "rocket": "Thor-Agena B",
+        "mission": "Discoverer 17",
+        "company": "U.S. Air Force / CIA",
+        "status": "partial",
+        "note": "The reentry capsule was recovered, but a film-feed problem caused most imagery to be lost."
+    },
+    {
+        "year": 1960,
+        "month": 10,
+        "day": 23,
+        "rocket": "Thor-Delta",
+        "mission": "TIROS-2",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Second experimental weather satellite in the TIROS program."
+    },
+    {
+        "year": 1960,
+        "month": 11,
+        "day": 1,
+        "rocket": "Vostok-L",
+        "mission": "Korabl-Sputnik 3 / Sputnik 6",
+        "company": "Soviet Space Program",
+        "status": "partial",
+        "note": "Reached orbit, but a faulty retrofire caused a steep destructive reentry; the animal passengers did not survive."
+    },
+    {
+        "year": 1960,
+        "month": 11,
+        "day": 7,
+        "rocket": "Thor-Agena B",
+        "mission": "Discoverer 18",
+        "company": "U.S. Air Force / CIA",
+        "status": "completed",
+        "note": "Successful reconnaissance test whose reentry capsule was recovered."
+    },
+    {
+        "year": 1960,
+        "month": 11,
+        "day": 20,
+        "rocket": "Thor-Agena B",
+        "mission": "Discoverer 19",
+        "company": "U.S. Air Force",
+        "status": "completed",
+        "note": "Tested infrared sensors and restart capability for the MIDAS missile-warning program."
     },
     {
         "year": 1961,
