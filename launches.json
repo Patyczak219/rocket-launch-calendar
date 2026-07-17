@@ -439,15 +439,135 @@
         "status": "completed",
         "note": "Tested infrared sensors and restart capability for the MIDAS missile-warning program."
     },
+     {
+        "year": 1961,
+        "month": 0,
+        "day": 31,
+        "rocket": "Mercury-Redstone",
+        "mission": "Mercury-Redstone 2 / Ham",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Suborbital test flight carrying Ham, the first chimpanzee in space."
+    },
+    {
+        "year": 1961,
+        "month": 0,
+        "day": 31,
+        "rocket": "Atlas-Agena A",
+        "mission": "SAMOS 2",
+        "company": "U.S. Air Force",
+        "status": "completed",
+        "note": "Photographic reconnaissance satellite that transmitted imagery by television relay."
+    },
+    {
+        "year": 1961,
+        "month": 1,
+        "day": 4,
+        "rocket": "Molniya 8K78",
+        "mission": "Venera 1VA No. 1 / Sputnik 7",
+        "company": "Soviet Space Program",
+        "status": "partial",
+        "note": "Intended for Venus, but the escape stage failed and left the spacecraft in low Earth orbit."
+    },
     {
         "year": 1961,
         "month": 1,
         "day": 12,
-        "rocket": "Molniya",
+        "rocket": "Molniya 8K78",
         "mission": "Venera 1",
         "company": "Soviet Space Program",
         "status": "partial",
-        "note": "First spacecraft to fly past Venus, though contact was lost before encounter."
+        "note": "First spacecraft launched toward Venus; contact was lost before its distant flyby."
+    },
+    {
+        "year": 1961,
+        "month": 1,
+        "day": 16,
+        "rocket": "Scout X-1",
+        "mission": "Explorer 9",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Inflatable satellite used to measure atmospheric density."
+    },
+    {
+        "year": 1961,
+        "month": 1,
+        "day": 17,
+        "rocket": "Thor-Agena B",
+        "mission": "Discoverer 20",
+        "company": "U.S. Air Force / CIA",
+        "status": "partial",
+        "note": "Reached orbit, but its film-recovery vehicle did not separate."
+    },
+    {
+        "year": 1961,
+        "month": 1,
+        "day": 18,
+        "rocket": "Thor-Agena B",
+        "mission": "Discoverer 21",
+        "company": "U.S. Air Force",
+        "status": "completed",
+        "note": "Instrumented Agena mission testing sensors and upper-stage restart capability."
+    },
+    {
+        "year": 1961,
+        "month": 1,
+        "day": 22,
+        "rocket": "Thor-Ablestar",
+        "mission": "Transit 3B / LOFTI",
+        "company": "U.S. Navy",
+        "status": "partial",
+        "note": "Navigation and low-frequency communications experiment; LOFTI failed to separate and some antennas did not deploy."
+    },
+    {
+        "year": 1961,
+        "month": 2,
+        "day": 9,
+        "rocket": "Vostok-K",
+        "mission": "Korabl-Sputnik 4",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Vostok test carrying the dog Chernushka, a mannequin and biological specimens; all returned safely."
+    },
+    {
+        "year": 1961,
+        "month": 2,
+        "day": 24,
+        "rocket": "Mercury-Redstone",
+        "mission": "Mercury-Redstone Booster Development",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Successful suborbital booster-development test conducted after problems on the Ham flight."
+    },
+    {
+        "year": 1961,
+        "month": 2,
+        "day": 25,
+        "rocket": "Thor-Delta",
+        "mission": "Explorer 10",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Investigated Earth's magnetic field and the space between Earth and the Moon."
+    },
+    {
+        "year": 1961,
+        "month": 2,
+        "day": 25,
+        "rocket": "Vostok-K",
+        "mission": "Korabl-Sputnik 5",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Final Vostok test before Yuri Gagarin, carrying the dog Zvezdochka and a mannequin; both returned safely."
+    },
+    {
+        "year": 1961,
+        "month": 3,
+        "day": 8,
+        "rocket": "Thor-Agena B",
+        "mission": "Discoverer 23",
+        "company": "U.S. Air Force / CIA",
+        "status": "partial",
+        "note": "Reached orbit, but stabilization failure prevented the planned recovery sequence."
     },
     {
         "year": 1961,
@@ -457,7 +577,17 @@
         "mission": "Vostok 1",
         "company": "Soviet Space Program",
         "status": "completed",
-        "note": "Yuri Gagarin became the first human in space."
+        "note": "Yuri Gagarin became the first human in space and the first to orbit Earth."
+    },
+    {
+        "year": 1961,
+        "month": 3,
+        "day": 27,
+        "rocket": "Juno II",
+        "mission": "Explorer 11",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Early gamma-ray astronomy satellite."
     },
     {
         "year": 1961,
@@ -467,7 +597,67 @@
         "mission": "Freedom 7",
         "company": "NASA",
         "status": "completed",
-        "note": "Alan Shepard became the first American in space."
+        "note": "Alan Shepard became the first American in space during a crewed suborbital flight."
+    },
+    {
+        "year": 1961,
+        "month": 5,
+        "day": 16,
+        "rocket": "Thor-Agena B",
+        "mission": "Discoverer 25",
+        "company": "U.S. Air Force / CIA",
+        "status": "completed",
+        "note": "Photographic reconnaissance mission whose reentry capsule was successfully recovered."
+    },
+    {
+        "year": 1961,
+        "month": 5,
+        "day": 29,
+        "rocket": "Thor-Ablestar",
+        "mission": "GRAB 3 / Injun 1",
+        "company": "U.S. Naval Research Laboratory",
+        "status": "partial",
+        "note": "Signals-intelligence and radiation-research payloads that separated from Transit 4A but remained attached to each other."
+    },
+    {
+        "year": 1961,
+        "month": 5,
+        "day": 29,
+        "rocket": "Thor-Ablestar",
+        "mission": "Transit 4A",
+        "company": "U.S. Navy",
+        "status": "completed",
+        "note": "Navigation satellite and the first spacecraft powered by a radioisotope electrical source."
+    },
+    {
+        "year": 1961,
+        "month": 6,
+        "day": 7,
+        "rocket": "Thor-Agena B",
+        "mission": "Discoverer 26",
+        "company": "U.S. Air Force / CIA",
+        "status": "completed",
+        "note": "Photographic reconnaissance mission whose reentry capsule was successfully recovered."
+    },
+    {
+        "year": 1961,
+        "month": 6,
+        "day": 12,
+        "rocket": "Atlas-Agena B",
+        "mission": "MIDAS 3",
+        "company": "U.S. Air Force",
+        "status": "completed",
+        "note": "Experimental infrared missile-warning satellite."
+    },
+    {
+        "year": 1961,
+        "month": 6,
+        "day": 12,
+        "rocket": "Thor-Delta",
+        "mission": "TIROS-3",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Weather satellite that returned television images of cloud patterns."
     },
     {
         "year": 1961,
@@ -476,8 +666,8 @@
         "rocket": "Mercury-Redstone",
         "mission": "Liberty Bell 7",
         "company": "NASA",
-        "status": "completed",
-        "note": "Crewed suborbital Mercury flight with Gus Grissom."
+        "status": "partial",
+        "note": "Gus Grissom completed the second American crewed suborbital flight; the capsule sank after splashdown."
     },
     {
         "year": 1961,
@@ -487,7 +677,197 @@
         "mission": "Vostok 2",
         "company": "Soviet Space Program",
         "status": "completed",
-        "note": "Gherman Titov completed a day-long orbital mission."
+        "note": "Gherman Titov completed a flight lasting more than one day and became the second human to orbit Earth."
+    },
+    {
+        "year": 1961,
+        "month": 7,
+        "day": 16,
+        "rocket": "Thor-Delta",
+        "mission": "Explorer 12",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Studied energetic particles and Earth's magnetosphere from a highly elliptical orbit."
+    },
+    {
+        "year": 1961,
+        "month": 7,
+        "day": 23,
+        "rocket": "Atlas-Agena B",
+        "mission": "Ranger 1",
+        "company": "NASA / JPL",
+        "status": "partial",
+        "note": "Lunar-spacecraft systems test left in low Earth orbit after the Agena upper stage failed to restart."
+    },
+    {
+        "year": 1961,
+        "month": 7,
+        "day": 25,
+        "rocket": "Scout X-1",
+        "mission": "Explorer 13",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Short-lived satellite designed to study micrometeoroids."
+    },
+    {
+        "year": 1961,
+        "month": 7,
+        "day": 30,
+        "rocket": "Thor-Agena B",
+        "mission": "Discoverer 29",
+        "company": "U.S. Air Force / CIA",
+        "status": "partial",
+        "note": "Its reentry capsule was recovered, but all photographic frames were out of focus."
+    },
+    {
+        "year": 1961,
+        "month": 8,
+        "day": 12,
+        "rocket": "Thor-Agena B",
+        "mission": "Discoverer 30",
+        "company": "U.S. Air Force / CIA",
+        "status": "partial",
+        "note": "Its reentry capsule was recovered, but the photographic imagery was out of focus."
+    },
+    {
+        "year": 1961,
+        "month": 8,
+        "day": 13,
+        "rocket": "Atlas D",
+        "mission": "Mercury-Atlas 4",
+        "company": "NASA",
+        "status": "completed",
+        "note": "Successful uncrewed one-orbit test of the Mercury spacecraft and recovery sequence."
+    },
+    {
+        "year": 1961,
+        "month": 8,
+        "day": 17,
+        "rocket": "Thor-Agena B",
+        "mission": "Discoverer 31",
+        "company": "U.S. Air Force / CIA",
+        "status": "partial",
+        "note": "Reached orbit, but a power failure prevented release of the recovery capsule."
+    },
+    {
+        "year": 1961,
+        "month": 9,
+        "day": 13,
+        "rocket": "Thor-Agena B",
+        "mission": "Discoverer 32",
+        "company": "U.S. Air Force / CIA",
+        "status": "partial",
+        "note": "Its recovery capsule was retrieved, but most photographic frames were out of focus."
+    },
+    {
+        "year": 1961,
+        "month": 9,
+        "day": 21,
+        "rocket": "Atlas-Agena B",
+        "mission": "MIDAS 4",
+        "company": "U.S. Air Force",
+        "status": "completed",
+        "note": "Experimental infrared missile-warning satellite placed into a high Earth orbit."
+    },
+    {
+        "year": 1961,
+        "month": 9,
+        "day": 27,
+        "rocket": "Saturn I",
+        "mission": "Saturn SA-1",
+        "company": "NASA",
+        "status": "completed",
+        "note": "First flight of a Saturn rocket; an uncrewed suborbital test reached an altitude of about 137 kilometres."
+    },
+    {
+        "year": 1961,
+        "month": 10,
+        "day": 5,
+        "rocket": "Thor-Agena B",
+        "mission": "Discoverer 34",
+        "company": "U.S. Air Force / CIA",
+        "status": "partial",
+        "note": "Reached an incorrect elliptical orbit, so recovery of its film capsule was not attempted."
+    },
+    {
+        "year": 1961,
+        "month": 10,
+        "day": 15,
+        "rocket": "Thor-Agena B",
+        "mission": "Discoverer 35",
+        "company": "U.S. Air Force / CIA",
+        "status": "completed",
+        "note": "Photographic reconnaissance mission whose reentry capsule was successfully recovered."
+    },
+    {
+        "year": 1961,
+        "month": 10,
+        "day": 15,
+        "rocket": "Thor-Ablestar",
+        "mission": "TRAAC",
+        "company": "U.S. Naval Research Laboratory",
+        "status": "completed",
+        "note": "Tether and radiation experiment launched together with Transit 4B."
+    },
+    {
+        "year": 1961,
+        "month": 10,
+        "day": 15,
+        "rocket": "Thor-Ablestar",
+        "mission": "Transit 4B",
+        "company": "U.S. Navy",
+        "status": "completed",
+        "note": "Nuclear-powered navigation satellite."
+    },
+    {
+        "year": 1961,
+        "month": 10,
+        "day": 18,
+        "rocket": "Atlas-Agena B",
+        "mission": "Ranger 2",
+        "company": "NASA / JPL",
+        "status": "partial",
+        "note": "Spacecraft systems test left in low Earth orbit after the Agena upper stage failed to restart."
+    },
+    {
+        "year": 1961,
+        "month": 10,
+        "day": 29,
+        "rocket": "Atlas D",
+        "mission": "Mercury-Atlas 5 / Enos",
+        "company": "NASA",
+        "status": "partial",
+        "note": "Enos became the first chimpanzee to orbit Earth; the flight ended after two instead of three planned orbits."
+    },
+    {
+        "year": 1961,
+        "month": 11,
+        "day": 12,
+        "rocket": "Thor-Agena B",
+        "mission": "Discoverer 36",
+        "company": "U.S. Air Force / CIA",
+        "status": "completed",
+        "note": "Photographic reconnaissance mission whose recovery capsule was retrieved from the ocean."
+    },
+    {
+        "year": 1961,
+        "month": 11,
+        "day": 12,
+        "rocket": "Thor-Agena B",
+        "mission": "OSCAR 1",
+        "company": "Project OSCAR",
+        "status": "completed",
+        "note": "First amateur-radio satellite, transmitting the letters HI in Morse code."
+    },
+    {
+        "year": 1961,
+        "month": 11,
+        "day": 22,
+        "rocket": "Atlas-Agena B",
+        "mission": "SAMOS 5",
+        "company": "U.S. Air Force",
+        "status": "partial",
+        "note": "Reached orbit, but retrofire failed and the planned film-recovery capsule was not returned."
     },
     {
         "year": 1962,
