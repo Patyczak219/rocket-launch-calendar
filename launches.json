@@ -19,15 +19,15 @@
         "status": "completed",
         "note": "Carried Laika, the first animal to orbit Earth."
     },
-    {
+   {
         "year": 1958,
         "month": 0,
         "day": 31,
         "rocket": "Juno I",
         "mission": "Explorer 1",
-        "company": "United States / ABMA",
+        "company": "U.S. Army / JPL",
         "status": "completed",
-        "note": "First successful U.S. satellite."
+        "note": "First successful United States satellite; its data helped reveal the Van Allen radiation belts."
     },
     {
         "year": 1958,
@@ -35,10 +35,80 @@
         "day": 17,
         "rocket": "Vanguard",
         "mission": "Vanguard 1",
-        "company": "United States / NRL",
+        "company": "U.S. Navy / Naval Research Laboratory",
         "status": "completed",
-        "note": "Oldest artificial satellite still in orbit."
+        "note": "First solar-powered satellite and the oldest human-made object still orbiting Earth."
     },
+    {
+        "year": 1958,
+        "month": 2,
+        "day": 26,
+        "rocket": "Juno I",
+        "mission": "Explorer 3",
+        "company": "U.S. Army / JPL",
+        "status": "completed",
+        "note": "Confirmed and expanded measurements of the Van Allen radiation belts."
+    },
+    {
+        "year": 1958,
+        "month": 4,
+        "day": 15,
+        "rocket": "Sputnik 8A91",
+        "mission": "Sputnik 3",
+        "company": "Soviet Space Program",
+        "status": "completed",
+        "note": "Large scientific satellite carrying instruments to study Earth's upper atmosphere and near-Earth space."
+    },
+    {
+        "year": 1958,
+        "month": 6,
+        "day": 26,
+        "rocket": "Juno I",
+        "mission": "Explorer 4",
+        "company": "U.S. Army / JPL",
+        "status": "completed",
+        "note": "Measured charged particles in Earth's radiation belts and contributed to the discovery of the outer belt."
+    },
+    {
+        "year": 1958,
+        "month": 9,
+        "day": 11,
+        "rocket": "Thor-Able I",
+        "mission": "Pioneer 1",
+        "company": "NASA / U.S. Air Force",
+        "status": "partial",
+        "note": "Failed to reach lunar orbit but travelled far into space and returned scientific measurements."
+    },
+    {
+        "year": 1958,
+        "month": 10,
+        "day": 8,
+        "rocket": "Thor-Able I",
+        "mission": "Pioneer 2",
+        "company": "NASA / U.S. Air Force",
+        "status": "partial",
+        "note": "Failed to reach the Moon but climbed to about 1,530 kilometres and returned scientific data."
+    },
+    {
+        "year": 1958,
+        "month": 11,
+        "day": 6,
+        "rocket": "Juno II",
+        "mission": "Pioneer 3",
+        "company": "NASA / ABMA / JPL",
+        "status": "partial",
+        "note": "Failed to fly by the Moon but returned valuable measurements of Earth's radiation belts."
+    },
+    {
+        "year": 1958,
+        "month": 11,
+        "day": 18,
+        "rocket": "Atlas B",
+        "mission": "Project SCORE",
+        "company": "U.S. Air Force / ARPA",
+        "status": "completed",
+        "note": "First communications satellite and the first use of an Atlas rocket to place a payload into orbit."
+    }
     {
         "year": 1959,
         "month": 0,
